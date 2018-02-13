@@ -2,7 +2,9 @@
 layout: default
 ---
 
-## Summary and Goals
+This course has yet to be approved; this page will be updated with the latest information. With any questions, feel free to email `imt.decal@gmail.com`, the official email for this course.
+
+## Introduction to Mathematical Thinking
 
 A large subset of the students entering Berkeley's Computer Science program don't have the mathematical preparation necessary to succeed in Berkeley's highly theoretical curriculum. Students with extracurricular math preparation in high school tend to find courses such as CS 70, CS 170 and Math 55 significantly easier than students without this background.
 
@@ -40,12 +42,12 @@ There will be a take-home midterm assignment, as well as a final exam in class.
 |1|**Set Theory**|||
 |2|**Number Theory**|||
 |3|**Introduction to Counting**|||
-|4|**Pascal's Triangle**|||
-|5|**Properties of Polynomials**: Factor theorem and remainder theorem. Complex roots.|||
-|6|**Combinatorics with Polynomials**: Vieta's formulas. Binomial theorem, and extensions to trinomials.|||
-|7|**Series and Sequences**: Arithmetic and geometric series. Telescoping sums. Other sums.|||
+|4|**Pascal's Triangle** <br>Construction of the triangle by recursion. Introduction to the combinatorial definition of a row. Various properties of the triangle. |||
+|5|**Properties of Polynomials**: <br>Factor theorem and remainder theorem. Coefficient representation vs. Complex roots.|||
+|6|**Combinatorics with Polynomials**: <br>Vieta's formulas. Binomial theorem, and extensions to trinomials.|||
+|7|**Series and Sequences**: <br>Arithmetic and geometric series. Telescoping sums and other sums.|||
 |8|**Introduction to Probability**|||
-|9|**Proof Techniques**|||
+|9|**Proof Techniques** <br>Formalization of the proof techniques discussed throughout the course.|||
 |10|**Proof Techniques, Continued**|||
 
 <br>
