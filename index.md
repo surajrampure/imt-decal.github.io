@@ -2,122 +2,48 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Summary and Goals
 
-[Link to another page](another-page).
+A large subset of the students entering Berkeley's Computer Science program don't have the mathematical preparation necessary to succeed in Berkeley's highly theoretical curriculum. Students with extracurricular math preparation in high school tend to find courses such as CS 70, CS 170 and Math 55 significantly easier than students without this background.
 
-There should be whitespace between paragraphs.
+We believe the Introduction to Mathematical Thinking DeCal can help bridge this gap.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<br>
 
-# [](#header-1)Header 1
+**The primary goal of this course is to have students develop mathematical maturity.** Our curriculum is devoted to exposing students to concepts they may have seen before, but to present these concepts in a more precise, generalized way. By the end of our course, students will be able to:
+  - comfortably read mathematical language, including notation, definitions and proofs
+  - generalize concepts and techniques introduced in class to harder novel problems
+  - concisely and clearly express their ideas
+  - differentiate between a good proof and a proof with logical gaps
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
+As a result, this course will prepare students for higher-level mathematics courses, such as CS 70 at Berkeley. With that being said, students need not plan on taking CS 70 to take this course; we will allow students to enroll in the course out of interest.
 
 
-### Definition lists can be used with HTML syntax.
+<br>
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+## Logistics
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+TBD, subject to approval.
 
-```
-The final element.
-```
+<br>
+
+## Content
+
+A textbook is being written specifically for this course. It will be available for free at [book.imt-decal.org](https://introduction-to-mathematical-t.gitbooks.io/book/content/). There will also be lecture videos embedded into the textbook; this is still a work in progress.
+
+There will be a take-home midterm assignment, as well as a final exam in class. 
+
+<br>
+
+|Week|Topic|Reading|Problem Set|
+|0|**Introduction**|||
+|1|**Set Theory**|||
+|2|**Number Theory**|||
+|3|**Introduction to Counting**|||
+|4|**Pascal's Triangle**|||
+|5|**Properties of Polynomials**|||
+|6|**Combinatorics with Polynomials**|||
+|7|**Series and Sequences**|||
+|8|**Introduction to Probability**|||
+|9|**Proof Techniques**|||
+|10|**Proof Techniques, Continued**|||
