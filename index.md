@@ -2,24 +2,21 @@
 layout: default
 ---
 
-This page will be updated with the latest information once the course is approved. Feel free to email `imt.decal@gmail.com` with any questions.
+This page will be updated with the latest information once the course is approved. Feel free to email `imt.decal@gmail.com` with any questions!
 
 ## Introduction to Mathematical Thinking
 
-A large subset of the students entering Berkeley's Computer Science program don't have the mathematical preparation necessary to succeed in Berkeley's highly theoretical curriculum. Students with extracurricular math preparation in high school tend to find courses such as CS 70, CS 170 and Math 55 significantly easier than students without this background.
+Berkeley's highly theoretical Computer Science curriculum demands a high level of mathematical maturity. While those with extracurricular math experience from high school are familiar with dense notation, complex mathematical objects, and proof techniques, many students find foundational courses like CS 70, CS 170, and Math 55 confusing and inaccessible. 
 
-We believe the Introduction to Mathematical Thinking DeCal can help bridge this gap.
+Introduction to Mathematical Thinking bridges the gap. 
 
-<br>
+**We teach mathematical maturity**. Our curriculum exposes students to familiar concepts in a more precise, generalized way. By the end of our course, students will be able to:
 
-**The primary goal of this course is to have students develop mathematical maturity.** Our curriculum is devoted to exposing students to concepts they may have seen before, but to present these concepts in a more precise, generalized way. By the end of our course, students will be able to:
-  - comfortably read mathematical language, including notation, definitions and proofs
-  - generalize concepts and techniques introduced in class to harder novel problems
-  - concisely and clearly express their ideas
-  - differentiate between a good proof and a proof with logical gaps
+* comfortably read mathematical language, including notation, definitions and proofs
+* concisely and clearly express their ideas
+* differentiate between a good proof and a proof with logical gaps
 
-As a result, this course will prepare students for higher-level mathematics courses, such as CS 70 at Berkeley. With that being said, students need not plan on taking CS 70 to take this course; we will allow students to enroll in the course out of interest.
-
+As a result, this course will prepare students for higher-level mathematics courses, such as CS 70 at Berkeley. However, students can enroll in the course even if they aren't planning on taking these courses or are not in CS/EECS; these skills and concepts are highly transferrable. 
 
 <br>
 
