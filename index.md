@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This course has yet to be approved; this page will be updated with the latest information. With any questions, feel free to email `imt.decal@gmail.com`, the official email for this course.
+This page will be updated with the latest information once the course is approved. Feel free to email `imt.decal@gmail.com` with any questions.
 
 ## Introduction to Mathematical Thinking
 
