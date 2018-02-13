@@ -36,14 +36,21 @@ There will be a take-home midterm assignment, as well as a final exam in class.
 <br>
 
 |Week|Topic|Reading|Problem Set|
-|0|**Introduction**|||
+|0|**Introduction**: Why does this class exist? How to effectively learn mathematics
+for problem solving. Overview of the topics covered throughout the course.|||
 |1|**Set Theory**|||
 |2|**Number Theory**|||
 |3|**Introduction to Counting**|||
 |4|**Pascal's Triangle**|||
-|5|**Properties of Polynomials**|||
-|6|**Combinatorics with Polynomials**|||
-|7|**Series and Sequences**|||
+|5|**Properties of Polynomials**: Factor theorem and remainder theorem. Complex roots.|||
+|6|**Combinatorics with Polynomials**: Vieta's formulas. Binomial theorem, and extensions to trinomials.|||
+|7|**Series and Sequences**: Arithmetic and geometric series. Telescoping sums. Other sums.|||
 |8|**Introduction to Probability**|||
 |9|**Proof Techniques**|||
 |10|**Proof Techniques, Continued**|||
+
+<br>
+
+## Staff
+
+Coming soon
