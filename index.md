@@ -39,14 +39,14 @@ There will be a take-home midterm assignment, as well as a final exam in class.
 
 |Week|Topic|Reading|Problem Set|
 |0|**Introduction** <br>Why does this class exist? How to effectively learn mathematics for problem solving. Overview of the topics covered throughout the course.|||
-|1|**Set Theory**|||
-|2|**Number Theory**|||
-|3|**Introduction to Counting**|||
+|1|**Set Theory** <br>Relationship between natural numbers and integers, and between rational numbers and integers. Countability of real numbers. Introduction to complex numbers. |||
+|2|**Number Theory** <br>Prime factorization of integers. LCM, GCD. Fundamental theorem of arithmetic. Introduction to modular arithmetic. |||
+|3|**Introduction to Counting** <br>Introduction to thinking about the "number of ways" to do something. Counting when order matters vs. when order doesn't matter. The factorial, the permutation term and the combinatorial term.|||
 |4|**Pascal's Triangle** <br>Construction of the triangle by recursion. Introduction to the combinatorial definition of a row. Various properties of the triangle. |||
-|5|**Properties of Polynomials** <br>Factor theorem and remainder theorem. Coefficient representation vs. Complex roots.|||
+|5|**Properties of Polynomials** <br>Factor theorem and remainder theorem. Coefficient representation vs. point representation. Nature of complex roots.|||
 |6|**Combinatorics with Polynomials** <br>Vieta's formulas. Binomial theorem, and extensions to trinomials.|||
 |7|**Series and Sequences** <br>Arithmetic and geometric series. Telescoping sums and other sums.|||
-|8|**Introduction to Probability**|||
+|8|**Introduction to Probability** <br>Probability as viewed through basic axiom. Applications of counting problems. |||
 |9|**Proof Techniques** <br>Formalization of the proof techniques discussed throughout the course.|||
 |10|**Proof Techniques, Continued**|||
 
