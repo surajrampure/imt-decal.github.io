@@ -38,14 +38,14 @@ There will be a take-home midterm assignment, as well as a final exam in class.
 <br>
 
 |Week|Topic|Reading|Problem Set|
-|0|**Introduction**: <br>Why does this class exist? How to effectively learn mathematics for problem solving. Overview of the topics covered throughout the course.|||
+|0|**Introduction** <br>Why does this class exist? How to effectively learn mathematics for problem solving. Overview of the topics covered throughout the course.|||
 |1|**Set Theory**|||
 |2|**Number Theory**|||
 |3|**Introduction to Counting**|||
 |4|**Pascal's Triangle** <br>Construction of the triangle by recursion. Introduction to the combinatorial definition of a row. Various properties of the triangle. |||
-|5|**Properties of Polynomials**: <br>Factor theorem and remainder theorem. Coefficient representation vs. Complex roots.|||
-|6|**Combinatorics with Polynomials**: <br>Vieta's formulas. Binomial theorem, and extensions to trinomials.|||
-|7|**Series and Sequences**: <br>Arithmetic and geometric series. Telescoping sums and other sums.|||
+|5|**Properties of Polynomials** <br>Factor theorem and remainder theorem. Coefficient representation vs. Complex roots.|||
+|6|**Combinatorics with Polynomials** <br>Vieta's formulas. Binomial theorem, and extensions to trinomials.|||
+|7|**Series and Sequences** <br>Arithmetic and geometric series. Telescoping sums and other sums.|||
 |8|**Introduction to Probability**|||
 |9|**Proof Techniques** <br>Formalization of the proof techniques discussed throughout the course.|||
 |10|**Proof Techniques, Continued**|||
@@ -54,4 +54,4 @@ There will be a take-home midterm assignment, as well as a final exam in class.
 
 ## Staff
 
-Coming soon
+Coming soon!
