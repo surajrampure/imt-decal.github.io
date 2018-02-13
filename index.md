@@ -36,8 +36,7 @@ There will be a take-home midterm assignment, as well as a final exam in class.
 <br>
 
 |Week|Topic|Reading|Problem Set|
-|0|**Introduction**: Why does this class exist? How to effectively learn mathematics
-for problem solving. Overview of the topics covered throughout the course.|||
+|0|**Introduction**: <br>Why does this class exist? How to effectively learn mathematics for problem solving. Overview of the topics covered throughout the course.|||
 |1|**Set Theory**|||
 |2|**Number Theory**|||
 |3|**Introduction to Counting**|||
