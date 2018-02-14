@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This page will be updated with the latest information once the course is approved. Feel free to email `imt.decal@gmail.com` with any questions!
+This page will be updated with the latest information once the course is approved. Feel free to email `imt-decal@berkeley.edu` with any questions!
 
 ## Introduction to Mathematical Thinking
 
@@ -51,4 +51,7 @@ There will be a take-home midterm assignment, as well as a final exam in class.
 
 ## Staff
 
-Coming soon!
+**Instructor**: [Suraj Rampure](http://surajrampure.com) (`suraj.rampure@berkeley.edu`)
+**TAs**: TBD
+
+Also, special thanks to our content contributors: Fahad Kamran, Nishant Kheterpal, Hermish Mehta, Jerry Huang, Ivon Liu
