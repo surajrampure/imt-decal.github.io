@@ -52,6 +52,7 @@ There will be a take-home midterm assignment, as well as a final exam in class.
 ## Staff
 
 **Instructor**: [Suraj Rampure](http://surajrampure.com) (`suraj.rampure@berkeley.edu`)
+
 **TAs**: TBD
 
 Also, special thanks to our content contributors: Fahad Kamran, Nishant Kheterpal, Hermish Mehta, Jerry Huang, Ivon Liu
