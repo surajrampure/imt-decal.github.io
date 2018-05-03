@@ -1,0 +1,266 @@
+\PassOptionsToPackage{unicode=true}{hyperref} % options for packages loaded elsewhere
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provides euro and other symbols
+\else % if luatex or xelatex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage[]{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\usepackage{hyperref}
+\hypersetup{
+            pdftitle={IMT DeCal},
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+
+\title{IMT DeCal}
+\date{}
+
+\begin{document}
+\maketitle
+
+\hypertarget{introduction-to-mathematical-thinking}{%
+\subsection{Introduction to Mathematical
+Thinking}\label{introduction-to-mathematical-thinking}}
+
+\hypertarget{cs-98-xx-uc-berkeley-fall-2018}{%
+\subsubsection{CS 98-xx @ UC Berkeley, Fall
+2018}\label{cs-98-xx-uc-berkeley-fall-2018}}
+
+Jump to \protect\hyperlink{announcements}{Announcements},
+\protect\hyperlink{description}{Course Description},
+\protect\hyperlink{logistics}{Logistics},
+\protect\hyperlink{schedule}{Content and Schedule}, or
+\protect\hyperlink{staff}{Staff}\\
+Read the \href{http://book.imt-decal.org}{textbook here}
+
+\hypertarget{announcements}{%
+\subsubsection{Announcements}\label{announcements}}
+
+\begin{itemize}
+\tightlist
+\item
+  Please fill out the \textbf{interest form} at
+  \href{http://interest.imt-decal.org}{interest.imt-decal.org} to
+  indicate that you're interested in taking this course in Fall 2018.
+  This is not an application, rather it is for us to gauge interest in
+  the course.
+\item
+  This page will be updated with the latest information once the course
+  is approved. Feel free to email {imt-decal@berkeley.edu} with any
+  questions!
+\end{itemize}
+
+\hypertarget{description}{%
+\subsubsection{Course Description}\label{description}}
+
+Berkeley's highly theoretical Computer Science curriculum demands a high
+level of mathematical maturity. While those with extracurricular math
+experience from high school are familiar with dense notation, complex
+mathematical objects, and proof techniques, many students find
+foundational courses like CS 70, CS 170, and Math 55 confusing and
+inaccessible.
+
+Introduction to Mathematical Thinking bridges the gap.
+
+\textbf{We teach mathematical maturity.} Our curriculum exposes students
+to familiar concepts in a more precise, generalized way. By the end of
+our course, students will be able to:
+
+\begin{itemize}
+\tightlist
+\item
+  comfortably read mathematical language, including notation,
+  definitions and proofs
+\item
+  concisely and clearly express their ideas differentiate between a good
+  proof and a proof with logical gaps
+\end{itemize}
+
+As a result, this course will prepare students for higher-level
+mathematics courses, such as CS 70 at Berkeley. However, students can
+enroll in the course even if they aren't planning on taking these
+courses or are not in CS/EECS; these skills and concepts are highly
+transferrable.
+
+There are \textbf{no prerequisites} for this course. We're working
+really hard to make the material accessible for all backgrounds.
+
+\hypertarget{logistics}{%
+\subsubsection{Logistics}\label{logistics}}
+
+All of the following is subject to approval and is tentative.
+
+The course will be offered for 2 units, P/NP. There will be one 1.5h
+lecture per week, and one 1.5h discussion per week. There will be weekly
+problem sets, which are taken up in discussion section after students
+have had a few days to attempt the problems. They are not to be
+submitted.
+
+Students' grades for the course are determined on a 100-point scale.
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Weekly surveys (5 points x 10 surveys = 50 points)}: Problem
+  sets aren't collected, but it is still expected that students attempt
+  them. Each week, there will be a form released where students indicate
+  how much of the problem set they attempted and how well they
+  understood the content. Surveys may also include a short problem that
+  should take less than half an hour to complete.
+\item
+  \textbf{Midterm (20 points)}: A take-home midterm problem set, which
+  students will have a week to complete individually.
+\item
+  \textbf{Final (30 points)}: An in-class final examination at the end
+  of the semester.
+\end{itemize}
+
+Students will need 75 points to pass the course, which roughly
+corresponds to filling out every survey and earning half of the points
+on both exams.
+
+\hypertarget{schedule}{%
+\subsubsection{Content and Schedule}\label{schedule}}
+
+A textbook is being written specifically for this course. It will be
+available for free at
+\href{http://book.imt-decal.org}{book.imt-decal.org}. There will also be
+lecture videos embedded into the textbook; this is still a work in
+progress.
+
+\textbf{Week}
+
+\textbf{Topic}
+
+\textbf{Reading}
+
+\textbf{Problem Set}
+
+0
+
+\textbf{Introduction}\\
+Why does this class exist? How to effectively learn mathematics for
+problem solving. Overview of the topics covered throughout the course.
+Introduce notation.
+
+1
+
+\textbf{Set Theory}\\
+Definition of a set. Set operations. Principle of Inclusion-Exclusion.
+Begin defining functions.
+
+2
+
+\textbf{Set Theory, Functions}\\
+A general definition of functions. Domain, range. Piecewise functions.
+Bijections. Construction of natural numbers, integers, rationals, reals
+and complex numbers.
+
+3
+
+\textbf{Number Theory}\\
+Prime factorization of integers. LCM, GCD. Fundamental theorem of
+arithmetic. Introduction to modular arithmetic.
+
+4
+
+\textbf{Proof Techniques}\\
+Presentation of various proof techniques, and examples of each. How to
+read proofs. Faulty proofs.
+
+5
+
+\textbf{Proof Techniques, Continued}\\
+Analysis of proof techniques, continued. Mathematical induction.
+
+6
+
+\textbf{Midterm/Buffer Week}\\
+
+7
+
+\textbf{Series and Sequences}\\
+Properties of summation notation. Arithmetic and geometric series.
+Telescoping sums and other sums. Generalized sequences.
+
+8
+
+\textbf{Counting}\\
+Thinking about the "number of ways" to do something. Permutations and
+combinations.
+
+9
+
+\textbf{Counting, Pascal's Triangle}\\
+Properties of Pascal's triangle. More combinatorial problems.
+Combinatorial proofs.
+
+10
+
+\textbf{Polynomials}\\
+Representation of polynomials. Factor and remainder theorems. Existence
+of complex roots.
+
+11
+
+\textbf{Combinatorics with Polynomials}\\
+Vieta's formulas. Binomial theorem, generalized to multinomials.
+
+12
+
+\textbf{Final}\\
+TBD
+
+Staff
+
+\textbf{Instructor}: \href{http://surajrampure.com}{Suraj Rampure}
+(suraj.rampure@berkeley.edu)
+
+\textbf{TAs}: TBD
+
+\textbf{Faculty Advisor}:
+\href{https://www2.eecs.berkeley.edu/Faculty/Homepages/rao.html}{Satish
+Rao}
+
+\end{document}
