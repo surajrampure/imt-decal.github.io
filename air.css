@@ -152,15 +152,10 @@ body {
   font-family: 'Open Sans', Helvetica, sans-serif;
   font-weight: 300;
   margin: 6rem auto 1rem;
-  max-width: 48rem;
+  max-width: 90rem;
 }
 
-img {
-  border-radius: 50%;
-  height: 200px;
-  margin: 0 auto;
-  width: 200px;
-}
+
 
 a,
 a:visited {
@@ -191,4 +186,8 @@ ul,
 ol,
 li {
   text-align: left;
+}
+
+.imgContainer{
+    float:left;
 }

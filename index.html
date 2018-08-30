@@ -12,6 +12,9 @@
       span.smallcaps{font-variant: small-caps;}
       div.line-block{white-space: pre-line;}
       div.column{display: inline-block; vertical-align: top; width: 50%;}
+      tr.schedule-table:nth-of-type(odd) {
+      background-color:#f2f2f2;
+    }
   </style>
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
@@ -21,30 +24,40 @@
 <h2 id="introduction-to-mathematical-thinking" style="color:#4d9d91;">Introduction to Mathematical Thinking</h2> 
 <h3 id="cs-98-xx-uc-berkeley-fall-2018">CS 198-087 @ UC Berkeley, Fall 2018</h3>
 
+<hr>
+
+
 <p>Jump to
+<strong>
 <a href="#announcements" style="color:#4d9d91;text-decoration:none;">Announcements</a>,
 <a href="#description" style="color:#4d9d91;text-decoration:none;">Course Description</a>,
-<a href="#grading" style="color:#4d9d91;text-decoration:none;">Logistics</a>,
 <a href="#schedule" style="color:#4d9d91;text-decoration:none;">Content and Schedule</a>,
-<a href="#staff" style="color:#4d9d91;text-decoration:none;">Staff</a>, or
-<a href="#faq" style="color:#4d9d91;text-decoration:none;">FAQs</a>
-<br>
-Read the <a href="http://book.imt-decal.org" style="color:#4d9d91;text-decoration:none;">textbook here</a></p>
+<a href="#grading" style="color:#4d9d91;text-decoration:none;">Grading</a>,
+<a href="#faq" style="color:#4d9d91;text-decoration:none;">FAQs</a>, or
+<a href="#staff" style="color:#4d9d91;text-decoration:none;">Staff</a>
+</strong>
 
+<br>
+
+
+Read the <strong><a href="http://book.imt-decal.org" style="color:#4d9d91;text-decoration:none;">textbook here</a></p>
+</strong>
 <br>
 
 <p>
 
-<b>Lecture:</b> Wednesdays, 6:30-8:00 PM, Leconte 3 <br>
-<b>Discussion:</b> Mondays, 6:30-8:00 PM, Leconte 3 <br>
+<b>Lecture:</b> Wednesdays, 6:30-8:00 PM, LeConte 3 <br>
+<b>Discussion:</b> Mondays, 6:30-8:00 PM, LeConte 3 <br>
 <b>Office Hours:</b> TBA <br> <br>
 
 </p>
 
 
 <h3 style="color:#4d9d91;" id="announcements">Announcements</h3>
+<hr>
 
 <ul>
+<li> (8/21) The deadline to apply to the course is now Friday, August 31st. Application decisions will be released by Monday, September 3rd. <b>If admitted, you must attend the first lecture on Wednesday, September 5th, or else you will lose your spot.</b> 
 <li>The application for this course is now released! Fill it out at <a style="color:#4d9d91;text-decoration:none" href="http://apply.imt-decal.org";>apply.imt-decal.org</a>, whether or not you previously filled out the interest form.</li>
 <li>Feel free to email <a style="color:#4d9d91;">imt-decal@berkeley.edu</a> with any questions! Make sure to check out the <a href='#faq' style="color:#4d9d91;text-decoration:none;">frequently asked questions</a> below. </li>
 </ul>
@@ -53,6 +66,7 @@ Read the <a href="http://book.imt-decal.org" style="color:#4d9d91;text-decoratio
 
 
 <h3 id="description" style="color:#4d9d91;">Course Description</h3>
+<hr>
 <p>Berkeley’s highly theoretical Computer Science curriculum demands a high level of mathematical maturity. While those with extracurricular math experience from high school are familiar with dense notation, complex mathematical objects, and proof techniques, many students find foundational courses like CS 70, CS 170, and Math 55 confusing and inaccessible.</p>
 <p>Introduction to Mathematical Thinking bridges the gap.</p>
 <p><strong>We teach mathematical maturity.</strong> Our curriculum exposes students to familiar concepts in a more precise, generalized way. By the end of our course, students will be able to:</p>
@@ -68,125 +82,138 @@ Read the <a href="http://book.imt-decal.org" style="color:#4d9d91;text-decoratio
 <p><br></p>
 
 
-<h3 id="grading" style="color:#4d9d91;">Grading</h3>
-<p>The course will be offered for 2 units, P/NP. There will be one 1.5h lecture each Wednesday, and one 1.5h discussion each Monday. There will be weekly problem sets, which are released on Wednesdays at 8PM taken up in discussion section the following Monday after students have had a few days to attempt the problems. Problem sets will be graded on effort, and are due exactly a week after released (the following Wednesday, at 8PM). Problem sets will be submitted on Gradescope (code TBD). </p>
-<p>Students' grades for the course are determined on a 100-point scale.
-<ul>
-<li> <strong>Problem sets (5 points x 10 problem sets = 50 points)</strong>: Students will either receive a 5, 2 or 0 on each problem set, corresponding to an attempt to most problems, an attempt to some problems, and no submission, respectively. </li>
-<li> <strong>Midterm (20 points)</strong>: A take-home midterm problem set, which students will have a week to complete individually.</li>
-<li> <strong>Final (30 points)</strong>: An in-class final examination at the end of the semester.</li>
-</ul>
-Students will need 70 points to pass the course, which roughly corresponds to a 5 on nine problem sets and earning half of the points on both exams. As this is a new course, we reserve the right to adjust this boundary and the point system as a whole as the course progresses, but we will do so in a fair way.
-</p>
-<br></p>
-
-
 <h3 id="schedule" style="color:#4d9d91;">Content and Schedule</h3>
+<hr>
 <p>A textbook is being written specifically for this course. It is available for free at <a style="color:#4d9d91;text-decoration:none;" href="http://book.imt-decal.org">book.imt-decal.org</a>. There will also be lecture videos embedded into the textbook; this is still a work in progress.</p>
 
-<table style="width:100%;">
-<colgroup>
-<col style="width: 10%" />
-<col style="width: 60%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
+<p>Each "week" in this course starts on a Wednesday (with the exception of the final week). This is because the material presented in lecture on Wednesday is covered in the following Monday's discussion.</p>
+
+
+<table style="width:100%; border-collapse: collapse;">
 <tbody>
 
 <tr>
-<td><b>Week</b></td>
-<td><b>Topic</b></td>
-<td><b>Reading</b></td>
-<td><b>Problem Set</b></td>
+<td width=5%><b>Week</b></td>
+<td width=12%><b>Lecture (W)</b><td>
+<td width=12%><b>Discussion (M)</b><td>
+<td width=56%><b>Topic</b></td>
+<td width=7.5%><b>Reading</b></td>
+<td width=7.5%><b>Problem Set</b></td>
 </tr>
 
-<tr>
-<td>0</td>
-<td><strong>Introduction</strong> <br>Why does this class exist? How to effectively learn mathematics for problem solving. Overview of the topics covered throughout the course. Introduce notation.</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>1</td>
-<td><strong>Set Theory, Functions</strong> <br>Definition of a set. Set operations. A general definition of functions. Domain, range. Piecewise functions. Bijections. Construction of natural numbers, integers, rationals, reals and complex numbers. </td>
+<tr class="schedule-table">
+<td>&nbsp; 1</td>
+<td>Sept. 5<td>
+<td>Sept. 10<td>
+<td><strong>Course Overview, Intro to Set Theory, Functions</strong> <br>Why does this class exist? Overview of the topics covered throughout the course. Definition of a set. Set operations. A general definition of functions. Domain, range. Piecewise functions.</td>
 <td></td>
 <td></td>
 </tr>
 
-<tr>
-<td>2</td>
+<tr class="schedule-table">
+<td>&nbsp; 2</td>
+<td>Sept. 12<td>
+<td>Sept. 17<td>
+<td><strong>Bijections, Number Sets, Propositional Logic</strong> <br>Bijections. Construction of natural numbers, integers, rationals, reals and complex numbers. Introduction to propositional logic.</td>
+<td></td>
+<td></td>
+</tr>
+ 
+<tr class="schedule-table">
+<td>&nbsp; 3</td>
+<td>Sept. 19<td>
+<td>Sept. 24<td>
 <td><strong>Proof Techniques</strong> <br>Presentation of various proof techniques, and examples of each. How to read proofs. Faulty proofs. </td>
 <td></td>
 <td></td>
 </tr>
 
-<tr>
-<td>3</td>
+<tr class="schedule-table">
+<td>&nbsp; 4</td>
+<td>Sept. 26<td>
+<td>Oct. 1<td>
 <td><strong>Proof Techniques, Continued</strong> <br>Analysis of proof techniques, continued. Mathematical induction.</td>
 <td></td>
 <td></td>
 </tr>
 
-<tr>
-<td>4</td>
-<td><strong>Number Theory</strong> <br>Prime factorization of integers. LCM, GCD. Fundamental theorem of arithmetic.</td>
+<tr class="schedule-table">
+<td>&nbsp; 5</td>
+<td>Oct. 3<td>
+<td>Oct. 8<td>
+<td><strong>Number Theory</strong> <br>Prime factorization of integers. LCM, GCD. Division algorithm. Introduction to modular arithmetic.</td>
 <td></td>
 <td></td>
 </tr>
 
-<tr>
-<td>5</td>
-<td><strong>Number Theory, Continued</strong> <br>Introduction to modular arithmetic. Modular inverses and Euclid's algorithm.</td>
+<tr class="schedule-table">
+<td>&nbsp; 6</td>
+<td>Oct. 10<td>
+<td>Oct. 15<td>
+<td><strong>Number Theory, Continued</strong> <br>Modular inverses and Euclid's algorithm.</td>
 <td></td>
 <td></td>
 </tr>
 
-<tr>
-<td>6</td>
-<td><strong>Midterm/Buffer Week</strong> <br></td>
+<tr class="schedule-table">
+<td>&nbsp; 7</td>
+<td>Oct. 17<td>
+<td>Oct. 22<td>
+<td><strong>Midterm</strong><br>In-class midterm on October 17th. Discussion on October 22nd will be taking up midterm.</td>
 <td></td>
 <td></td>
 </tr>
 
-<tr>
-<td>7</td>
-<td><strong>Series and Sequences</strong> <br>Properties of summation notation. Arithmetic and geometric series. Telescoping sums and other sums. Generalized sequences.</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>8</td>
+<tr class="schedule-table">
+<td>&nbsp; 8</td>
+<td>Oct. 24<td>
+<td>Oct. 29<td>
 <td><strong>Counting</strong> <br>Thinking about the "number of ways" to do something. Permutations and combinations. Stars and bars. Principle of Inclusion-Exclusion. </td>
 <td></td>
 <td></td>
 </tr>
 
-<tr>
-<td>9</td>
+<tr class="schedule-table">
+<td>&nbsp; 9</td>
+<td>Oct. 31<td>
+<td>Nov. 5<td>
 <td><strong>Counting, Pascal's Triangle</strong> <br>Properties of Pascal's triangle. More combinatorial problems. Combinatorial proofs. </td>
 <td></td>
 <td></td>
 </tr>
 
-<tr>
-<td>10</td>
-<td><strong>Polynomials</strong> <br>Representation of polynomials. Factor and remainder theorems. Existence of complex roots.</td>
+<tr class="schedule-table">
+<td>&nbsp; 10</td>
+<td>Nov. 7<td>
+<td>N/A (Veteran's Day)<td>
+<td><strong>Polynomials</strong> <br>Representation of polynomials, interpolation. Factor and remainder theorems. Vieta's formulas.</td>
 <td></td>
 <td></td>
 </tr>
 
-<tr>
-<td>11</td>
-<td><strong>Combinatorics with Polynomials</strong> <br>Vieta's formulas. Binomial theorem, generalized to multinomials.</td>
+<tr class="schedule-table">
+<td>&nbsp; 11</td>
+<td>Nov. 14<td>
+<td>Nov. 19<td>
+<td><strong>Polynomials, Combinatorics with Polynomials</strong> <br>Binomial theorem, generalized to multinomials.</td>
 <td></td>
 <td></td>
 </tr>
 
-<tr>
-<td>12</td>
-<td><strong>Final</strong> <br>TBD</td>
+<tr class="schedule-table">
+<td>&nbsp; 12</td>
+<td>N/A (Thanksgiving)<td>
+<td>Nov. 26<td>
+<td><strong>Final Review</strong><br>No class Wednesday of Thanksgiving. In-class final review Monday, Nov. 26.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr class="schedule-table">
+<td>&nbsp; 13</td>
+<td>Nov. 28<td>
+<td>N/A<td>
+<td><strong>Final</strong><br>In class final on Wednesday, November 28th.</td>
 <td></td>
 <td></td>
 </tbody>
@@ -194,38 +221,114 @@ Students will need 70 points to pass the course, which roughly corresponds to a 
 <p><br></p>
 
 
-<h3 id="faq" style="color:#4d9d91;"> Frequently Asked Questions </h3>
+<h3 id="grading" style="color:#4d9d91;">Grading</h3>
+<hr>
+<p>The course will be offered for 2 units, P/NP. There will be one 1.5h lecture each Wednesday, and one 1.5h discussion each Monday.</p>
 
+<p>There will be weekly problem sets, which are released on Wednesdays after lecture and due the following Monday at 6:30PM, at the start of discussion. Problem sets are graded on effort. The problem set will be taken up in that Monday's discussion section; the idea is that students will discuss amongst each other their approaches to the problems, and the staff will facilitate this discussion. Problem sets will be submitted on Gradescope (code TBD). </p>
+<p>Your grade in this course is calculated on a 100-point scale.
+<ul>
+<li> <strong>Problem sets (5 points x 10 problem sets = 50 points)</strong>: Homeworks are graded on effort. We feel like the best way for you to learn is by doing practice.</li>
+<li> <strong>Midterm (20 points)</strong>: October 17th, in class.</li>
+<li> <strong>Final (30 points)</strong>: November 28th, in class.</li>
+</ul>
+
+Attendance to both lecture and discussion is mandatory. <b>If you have more than 3 unexcused absenses, you will receive an NP in the course</b>.
+
+You will need 70 points to pass the course, which roughly corresponds to a 5 on nine problem sets and earning half of the points on both exams. As this is a new course, we reserve the right to adjust this boundary and the point system as a whole as the course progresses, but we will do so in a fair way.
+</p>
+<br></p>
+
+
+<h3 id="faq" style="color:#4d9d91;"> Frequently Asked Questions </h3>
+<hr>
 <br>
 
-<b> When should I take this course? </b> We think this course is best taken the semester before taking CS 70. Therefore, if you plan on taking CS 70 in Spring 2019, Fall 2018 would be the time to take it. With that being said, you can take this course even if you don't plan on taking CS 70, but due to constraints, we won't be admitting many students from this category (perhaps in future semesters).
+<b> When should I take this course? </b> <br> We think this course is best taken the semester before taking CS 70. Therefore, if you plan on taking CS 70 in Spring 2019, Fall 2018 would be the time to take it. With that being said, you can take this course even if you don't plan on taking CS 70, but due to constraints, we won't be admitting many students from this category (perhaps in future semesters).  This DeCal is not designed to be taken alongside or after CS 70.
 
 <br><br>
 
-<b> How do I know that this course is for me? </b> This course is designed for students without discrete math experience. In general, if you have significant math contest experience, or did well in a discrete math course prior to being at Berkeley, then this course probably isn't for you. 
+<b> How do I know that this course is for me? </b> <br> This course is designed for students without discrete math experience. In general, if you have significant math contest experience, or did well in a discrete math course prior to being at Berkeley, then this course probably isn't for you. 
 
 Take a look at <a style="color:#4d9d91;text-decoration:none;" href='assets/diagnostic.pdf'>this diagnostic assessment</a>. If a lot of this material seems unfamiliar to you, we'd be glad to have you!
 
 <br><br>
 
-<b> How much work will it be? </b> We know you have other courses in which your grade matters. However, the only way to actually develop and retain skills from this course is to put in the time into coming to lecture and discussion, reading the book/watching lecture videos, and (most importantly) doing the homework. Not including time spent in class, a rough estimate is 5 hours per week. 
+<b> How much work will it be? </b> <br> We know you have other courses in which your grade matters. However, the only way to actually develop and retain skills from this course is to put in the time into coming to lecture and discussion, reading the book/watching lecture videos, and (most importantly) doing the homework. Not including time spent in class, a rough estimate is 5 hours per week. 
 
 <br><br>
 
-<b> Can I audit this course? </b> Sadly, we won't have space for that. However, all materials – lecture notes, the textbook, lecture videos, assignments, exams – will be posted online. 
+<b> Can I audit this course? </b> <br> Sadly, we won't have space for that. However, all materials – lecture notes, the textbook, lecture videos, assignments, exams – will be posted online. 
 
 <p><br></p>
 
 
 
 <h3 id="staff" style="color:#4d9d91;">Staff</h2>
+<hr>
 
 For all course-related communications, please email <a style="color:#4d9d91;text-decoration:none;">imt-decal@berkeley.edu</a>. <br> <br>
 
-<p><strong>Instructor</strong>: <a style="color:#4d9d91;text-decoration:none;" href="http://surajrampure.com">Suraj Rampure</a> (suraj.rampure@berkeley.edu)</p>
-<p><strong>TAs</strong>: TBD</p>
-<p><strong>Faculty Advisor</strong>: <a style="color:#4d9d91;text-decoration:none;" href="https://www2.eecs.berkeley.edu/Faculty/Homepages/rao.html">Satish Rao</a></p>
-<br>
+<h4 style="color:#4d9d91;">Instructor</h4>
+
+<table style="width:50%;">
+<tbody>
+<tr>
+<td width=10%></td>
+<td width=25%></td>
+</tr>
+
+<tr>
+<td><a href="https://youtu.be/dwOvAGm1Oxo?t=21m59s"><img src="assets/staff_pics/suraj_rampure.png" height="150"/></a></td>
+<td valign=top><strong><a style="text-decoration:none; color:#000000" href="http://surajrampure.com">Suraj Rampure</strong>   (<a style="color:#4d9d91;">suraj.rampure@berkeley.edu</a>)<br>Hey, I'm a third year EECS major from Windsor, Ontario (right across the border from Detroit). I like cars, tech, men's fashion, teaching and rooting for LeBron (go <strike>Cavs</strike> Lakers!) I'm super excited that this course is finally a reality, and I'm hoping you are as well. Click the picture of me for a surprise.</td>
+</tr>
+</tbody>
+</table>
+
+
+<h4 style="color:#4d9d91;">Teaching Assistants</h4>
+
+<table style="width:50%;">
+<tbody>
+
+<tr>
+<td width=10%></td>
+<td width=25%></td>
+</tr>
+
+<tr>
+<td><img src="assets/staff_pics/edward_im.png" height="150"/></td>
+<td valign=top><strong>Edward Im</strong>   (<a style="color:#4d9d91;">edwardim@berkeley.edu</a>)<br>Hi! I'm a third-year studying Economics and Computer Science. I love math, and I hope to help you love it too. In my free time, I love running, overeating, and singing in the shower (ask my roommates!)</td>
+</tr>
+<tr>
+<td><img src="assets/staff_pics/ziv_lotzky.png" height="150"/></td>
+<td valign=top><strong>Ziv Lotzky</strong>   (<a style="color:#4d9d91;">zivlotzky@berkeley.edu</a>)<br>Hey I’m Ziv! I’m a senior math major originally from New York (go yankees!). I love logic puzzles, riddles, and quantitative finance. </td>
+</tr>
+<tr>
+<td><img src="assets/staff_pics/josh_geng.png" height="150"/></td>
+<td valign=top><strong>Josh Geng</strong>   (<a style="color:#4d9d91;">joshgeng@berkeley.edu</a>)<br>I'm a second year Statistics and Econ major from Calgary, Canada. I did math competitions for the majority of my life and I was able to travel the world because if it. Come to RSF after discussion to get swole with me!</td>
+</tr>
+
+</tbody>
+</table>
+
+
+
+<h4 style="color:#4d9d91;">Faculty Advisor</h4>
+
+<table style="width:50%;">
+<tbody>
+<tr>
+<td width=10%></td>
+<td width=25%></td>
+</tr>
+
+<tr>
+<td><img src="assets/staff_pics/satish_rao.png" height="150"/></td>
+<td><strong><a style="text-decoration:none; color:#000000" href="https://www2.eecs.berkeley.edu/Faculty/Homepages/rao.html">Satish Rao</a></strong>   (<a style="color:#4d9d91;">satishr@cs.berkeley.edu</a>)<br></td>
+</tr>
+</tbody>
+</table>
 
 </body>
 </html>
