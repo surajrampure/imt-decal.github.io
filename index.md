@@ -222,13 +222,13 @@ Hey, I'm a third year EECS major from Windsor, Ontario (right across the border 
 
 <img src='assets/staff_pics/jaicircle.png' width=100> 
 
-**[Jai Bansal](https://jaikb.github.io/)** (`jaibansal@berkeley.edu@berkeley.edu`)
+**[Jai Bansal](https://jaikb.github.io/)** (`jaibansal@berkeley.edu`)
 
 Hey everyone! This is my first year at Cal hoping to major in CS and Applied Mathematics. In my free time, I love playing Ultimate Frisbee and watching basketball, football, soccer (or any sport you can name) and listening to way too much Logic. Feel free to talk to me about anything! Excited to TA for the first time!
 
 <img src='assets/staff_pics/sagnikcircle.png' width=100> 
 
-**Sagnik Bhattacharyay** (`sagnick@berkeley.edu@berkeley.edu`)
+**[Sagnik Bhattacharya](https://sagnibak.github.io/)** (`sagnick@berkeley.edu`)
 
 I'm a CS and stats-intended freshman. You can find me running on the streets of Berkeley when I'm not biking between classes or trying to hack the mainframe. Talk math and computers (and environmental science!) to me.
 
@@ -240,7 +240,7 @@ I am a sophomore Computer Science major from San Diego. I am a gemini who likes 
 
 <img src='assets/staff_pics/divyacircle.png' width=100> 
 
-**[Divya Mohan](https://www.linkedin.com/in/divya-m99/)** (`21dmohan@berkeley.edu@berkeley.edu`)
+**[Divya Mohan](https://www.linkedin.com/in/divya-m99/)** (`21dmohan@berkeley.edu`)
 
 Heya! I'm a sophomore EECS major, originally from the Bay Area (specifically, Belmont). I am also meme trash; find me on UCBMFET any day, all day. I'm interested in data science, and I love helping my peers :)
 
