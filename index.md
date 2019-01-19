@@ -213,7 +213,8 @@ For all course related communications, please email `imt-decal@berkeley.edu`.
 
 **[Suraj Rampure](http://surajrampure.com)** (`suraj.rampure@berkeley.edu`) <br>
 
-Hey, I'm a third year EECS major from Windsor, Ontario (right across the border from Detroit). I like cars, tech, teaching and rooting for LeBron (go <strike>Cavs</strike> Lakers!) I'm super excited that this course is finally a reality, and I'm hoping you are as well. 
+Hey, I’m a third year EECS major from Windsor, Ontario (right across the border from Detroit). I like cars, tech, teaching and rooting for LeBron (go <strike>Cavs</strike> Lakers!). This is my second semester teaching this course, fifth semester as a part of CSM, and fourth semester as a GSI; currently, I’m TA’ing Data 100, but have TA’d CS 61A and Data 8 in the past. I’m super excited that this course is finally a reality, and I’m hoping you are as well.
+
 
 <br>
 
