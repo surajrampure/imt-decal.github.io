@@ -1,4 +1,4 @@
-#Making Changes to the Website
+# Making Changes to the Website
 
 1. Clone the repo to your laptop using `git clone https://github.com/surajrampure/imt-decal.github.io.git`
 2. Make the changes you want in the `index.md` file 
