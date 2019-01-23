@@ -48,7 +48,11 @@ Read the [textbook here](http://book.imt-decal.org).
 
 **Class**: Tu/Th, 3:30 - 5:00PM, LeConte 2
 
-**Office Hours**: TBD
+**Office Hours**: All office hours are in Soda 341B.
+
+- Monday 3-4PM (Jai, Sagnik)
+- Wednesday 7-8PM (Suraj, Alexia)
+- Thursday 2-3PM (Adel, Divya)
 
 **Piazza**: TBD
 
