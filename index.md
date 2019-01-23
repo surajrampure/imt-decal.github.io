@@ -84,7 +84,7 @@ Read the [textbook here](http://book.imt-decal.org).
 
 - Homework follows a Friday-Friday schedule. 
 - All readings are in the course textbook, [book.imt-decal.org](http://book.imt-decal.org). This is a relatively new resource, so please report any errors you find.
-- The schedule is tentative, but quiz dates are final.
+- The schedule is tentative.
 
 
 <table style="width:100%; border-collapse: collapse;">
@@ -93,11 +93,11 @@ Read the [textbook here](http://book.imt-decal.org).
 |Week|Date|Topic|Resources|Homework|
 |:---:|---|---|---|---|
 | 1 | Tues. 01/29 | Course Overview| N/A | N/A |
-|  | Thurs. 01/31 | Set Theory, Functions | [1.1](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.1%20Sets%20and%20Set%20Operations.html), [1.2](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.2%20Functions%20and%20Bijections.html) | N/A |
+|  | Thurs. 01/31 | Set Theory, Functions | [1.1](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.1%20Sets%20and%20Set%20Operations.html), [1.2](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.2%20Functions%20and%20Bijections.html) | |
 | 2 | Tues. 02/05 | Bijections | [1.2](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.2%20Functions%20and%20Bijections.html) | |
 | | Thurs. 02/07 | Number Sets, Propositional Logic | [1.3](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.3%20Sets%20of%20Numbers.html), [1.4](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.4%20Propositional%20Logic.html) | |
-| 3 | Tues. 02/12 | Propositional Logic <br> **Quiz 1 in class** | [1.4](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.4%20Propositional%20Logic.html), [1.5](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.5%20Summary,%20Cheat%20Sheet.html)  | |
-| | Thurs. 02/14 | Basic Proof Techniques | [2.1](http://book.imt-decal.org/2.%20Proof%20Techniques/2.1%20Foundational%20Proof%20Techiques.html) | |
+| 3 | Tues. 02/12 | Propositional Logic | [1.4](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.4%20Propositional%20Logic.html), [1.5](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.5%20Summary,%20Cheat%20Sheet.html)  | |
+| | Thurs. 02/14 | Basic Proof Techniques <br> **Quiz 1 in class** | [2.1](http://book.imt-decal.org/2.%20Proof%20Techniques/2.1%20Foundational%20Proof%20Techiques.html) | |
 | 4 | Tues. 02/19 | Basic Proof Techniques | [2.1](http://book.imt-decal.org/2.%20Proof%20Techniques/2.1%20Foundational%20Proof%20Techiques.html) | |
 | | Thurs. 02/21 | Induction | [2.2](http://book.imt-decal.org/2.%20Proof%20Techniques/2.2%20Mathematical%20Induction.html) | |
 | 5 | Tues. 02/26 | Induction | [2.2](http://book.imt-decal.org/2.%20Proof%20Techniques/2.2%20Mathematical%20Induction.html) | |
@@ -111,8 +111,8 @@ Read the [textbook here](http://book.imt-decal.org).
 | 9 | Tues. 03/26 | No Class (Spring Break) | N/A | N/A |
 | | Thurs. 03/28 | No Class (Spring Break) | N/A | N/A |
 | 10 | Tues. 04/02 | Combinatorial Proofs | [4.5](http://book.imt-decal.org/4.%20Counting/4.5%20Combinatorial%20Proofs.html) | |
-| | Thurs. 04/04 | Binomial Theorem <br> **Quiz 4 in class** | [5.1](http://book.imt-decal.org/5.%20Polynomials/5.1%20Binomial%20Theorem.html) | |
-| 11 | Tues. 04/09 | Binomial Theorem | [5.1](http://book.imt-decal.org/5.%20Polynomials/5.1%20Binomial%20Theorem.html) | |
+| | Thurs. 04/04 | Binomial Theorem | [5.1](http://book.imt-decal.org/5.%20Polynomials/5.1%20Binomial%20Theorem.html) | |
+| 11 | Tues. 04/09 | Binomial Theorem <br> **Quiz 4 in class** | [5.1](http://book.imt-decal.org/5.%20Polynomials/5.1%20Binomial%20Theorem.html) | |
 | | Thurs. 04/11 | Vieta's Formulas | [5.2](http://book.imt-decal.org/5.%20Polynomials/5.2%20Vieta's%20Formulas.html) | |
 | 12 | Tues. 04/16 | Vieta's Formulas | [5.2](http://book.imt-decal.org/5.%20Polynomials/5.2%20Vieta's%20Formulas.html) | |
 | | Thurs. 04/18 | Polynomial Interpolation | [5.3](http://book.imt-decal.org/5.%20Polynomials/5.3%20Representation,%20Interpolation.html) | |
@@ -167,6 +167,7 @@ There will be weekly problem sets, which are graded on effort, not correctness. 
 The course is graded on a 100 point scale:
 
 - 5 quizzes, each worth 12 points, for a total of 60 points
+  - Quizzes are on **Feb. 14, Feb. 28, Mar. 14, Apr. 9 and Apr. 30**, in class
 - Weekly homeworks, worth a total of 40 points
 
 A passing grade will be given to students with **75 points or more**. We reserve the right to change this threshold, but we would only decrease it (i.e. we will not make it any harder to pass).
