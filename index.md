@@ -67,7 +67,7 @@ Read the [textbook here](http://book.imt-decal.org).
 </a>
 
 - **The application for Spring 2019 is now released! [It can be found here](http://apply.imt-decal.org). Be sure to look at the [FAQs](#faq) below.**
-  - Applications are due 01/23, and you will be notified of your status by 01/26. The first class, 01/29, is mandatory (or else you will lose your spot)!
+  - **Application deadline has been extended. Applications are now due Saturday 01/26, and you will hear back Sunday 01/27. The first class, Tuesday 01/29, is mandatory (or else you will lose your spot)!**
   - We are aware that the course overlaps with EE 16A. However, EE 16A is webcasted, and has no in-class examinations. Furthermore, we will not be having a final exam during finals week.
 - Feel free to email us (`imt-decal@berkeley.edu`) with any questions!
 
