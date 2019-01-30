@@ -94,7 +94,7 @@ Read the [textbook here](http://book.imt-decal.org).
 
 |Week|Date|Topic|Resources|Homework|
 |:---:|---|---|---|---|
-| 1 | Tues. 01/29 | Course Overview | [Slides](assets/lecture/lecture1.pdf) <br> [Notebook](assets/lecture/lecture1_notebook.html) <br> Video | N/A |
+| 1 | Tues. 01/29 | Course Overview | [Slides](assets/lecture/lecture1.pdf) <br> [Notebook](assets/lecture/lecture1_notebook.html) <br> [Video](https://youtu.be/oSVre2fs5qE) | N/A |
 |  | Thurs. 01/31 | Set Theory, Functions | [1.1](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.1%20Sets%20and%20Set%20Operations.html), [1.2](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.2%20Functions%20and%20Bijections.html) | |
 | 2 | Tues. 02/05 | Bijections | [1.2](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.2%20Functions%20and%20Bijections.html) | |
 | | Thurs. 02/07 | Number Sets, Propositional Logic | [1.3](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.3%20Sets%20of%20Numbers.html), [1.4](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.4%20Propositional%20Logic.html) | |
