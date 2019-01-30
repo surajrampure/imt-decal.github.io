@@ -130,6 +130,7 @@ Other resouces:
 
 - Fall 2018 [midterm](assets/fa18midterm.pdf) and [solutions](assets/fa18midterm_sol.pdf)
 - Fall 2018 [final](assets/fa18final.pdf) and [solutions](assets/fa18final_sol.pdf)
+- Fall 2018 [webcasts](https://www.youtube.com/playlist?list=PLTankVhPxGKrESpyDmVfQY-UloCCM1YIu)
 
 <br>
 
