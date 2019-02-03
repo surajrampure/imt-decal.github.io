@@ -56,7 +56,7 @@ Read the [textbook here](http://book.imt-decal.org).
 
 **Piazza**: [here](piazza.com/berkeley/spring2019/cs198087)
 
-**Gradescope**: TBD
+**Gradescope**: 92BDXK
 
 **Email**: `imt-decal@berkeley.edu`
 
@@ -83,19 +83,18 @@ Read the [textbook here](http://book.imt-decal.org).
 
 </a>
 
-
 - Homework follows a Friday-Friday schedule. 
-- All readings are in the course textbook, [book.imt-decal.org](http://book.imt-decal.org). This is a relatively new resource, so please report any errors you find.
+- All readings are in the course textbook, [book.imt-decal.org](http://book.imt-decal.org). This is a relatively new resource, and is very much still in progress, so please report any errors you find.
 - The schedule is tentative.
 
 
-<table style="width:100%; border-collapse: collapse;">
+<table style="width:50%; border-collapse: collapse;">
 <tbody>
 
 |Week|Date|Topic|Resources|Homework|
 |:---:|---|---|---|---|
 | 1 | Tues. 01/29 | Course Overview | [Slides](assets/lecture/lecture1.pdf) <br> [Notebook](assets/lecture/lecture1_notebook.html) <br> [Video](https://youtu.be/oSVre2fs5qE) | N/A |
-|  | Thurs. 01/31 | Set Theory, Functions | <br> [Slides](assets/lecture/lecture2.pdf) <br> Video <br> Readings: [1.1](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.1%20Sets%20and%20Set%20Operations.html), [1.2](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.2%20Functions%20and%20Bijections.html) | |
+|  | Thurs. 01/31 | Set Theory, Functions | [Slides](assets/lecture/lecture2.pdf) <br> [Video](https://youtu.be/P90P-sYNgPs) <br> Readings: [1.1](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.1%20Sets%20and%20Set%20Operations.html), [1.2](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.2%20Functions%20and%20Bijections.html) | [HW 1](assets/hw/hw1.pdf) |
 | 2 | Tues. 02/05 | Bijections | [1.2](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.2%20Functions%20and%20Bijections.html) | |
 | | Thurs. 02/07 | Number Sets, Propositional Logic | [1.3](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.3%20Sets%20of%20Numbers.html), [1.4](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.4%20Propositional%20Logic.html) | |
 | 3 | Tues. 02/12 | Propositional Logic | [1.4](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.4%20Propositional%20Logic.html), [1.5](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.5%20Summary,%20Cheat%20Sheet.html)  | |
