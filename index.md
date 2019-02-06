@@ -94,30 +94,30 @@ Read the [textbook here](http://book.imt-decal.org).
 |Week|Date|Topic|Resources|Homework|
 |:---:|---|---|---|---|
 | 1 | Tues. 01/29 | Course Overview | [Slides](assets/lecture/lecture1.pdf) <br> [Notebook](assets/lecture/lecture1_notebook.html) <br> [Video](https://youtu.be/oSVre2fs5qE) | N/A |
-|  | Thurs. 01/31 | Set Theory, Functions | [Slides](assets/lecture/lecture2.pdf) <br> [Video](https://youtu.be/P90P-sYNgPs) <br> Readings: [1.1](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.1%20Sets%20and%20Set%20Operations.html), [1.2](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.2%20Functions%20and%20Bijections.html) | [HW 1](assets/hw/hw1.pdf) |
-| 2 | Tues. 02/05 | Bijections | [1.2](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.2%20Functions%20and%20Bijections.html) | |
-| | Thurs. 02/07 | Number Sets, Propositional Logic | [1.3](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.3%20Sets%20of%20Numbers.html), [1.4](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.4%20Propositional%20Logic.html) | |
-| 3 | Tues. 02/12 | Propositional Logic | [1.4](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.4%20Propositional%20Logic.html), [1.5](http://book.imt-decal.org/1.%20Sets%20and%20Functions/1.5%20Summary,%20Cheat%20Sheet.html)  | |
-| | Thurs. 02/14 | Basic Proof Techniques <br> **Quiz 1 in class** | [2.1](http://book.imt-decal.org/2.%20Proof%20Techniques/2.1%20Foundational%20Proof%20Techiques.html) | |
-| 4 | Tues. 02/19 | Basic Proof Techniques | [2.1](http://book.imt-decal.org/2.%20Proof%20Techniques/2.1%20Foundational%20Proof%20Techiques.html) | |
-| | Thurs. 02/21 | Induction | [2.2](http://book.imt-decal.org/2.%20Proof%20Techniques/2.2%20Mathematical%20Induction.html) | |
-| 5 | Tues. 02/26 | Induction | [2.2](http://book.imt-decal.org/2.%20Proof%20Techniques/2.2%20Mathematical%20Induction.html) | |
-| | Thurs. 02/28 | Series and Sequences <br> **Quiz 2 in class**  | [2.3](http://book.imt-decal.org/2.%20Proof%20Techniques/2.3%20Series%20and%20Sequences.html) | |
-| 6 | Tues. 03/05 | Division Algorithm and Primality | [3.1](http://book.imt-decal.org/3.%20Number%20Theory/3.1%20Division%20Algorithm%20and%20Primality.html) | |
-| | Thurs. 03/07 | Modular Arithmetic | [3.2](http://book.imt-decal.org/3.%20Number%20Theory/3.2%20Modular%20Arithmetic.html) | |
-| 7 | Tues. 03/12 | Finding Modular Inverses | [3.3](http://book.imt-decal.org/3.%20Number%20Theory/3.3%20Finding%20Modular%20Inverses.html) | |
-| | Thurs. 03/14 | Counting <br> **Quiz 3 in class** | [4.1](http://book.imt-decal.org/4.%20Counting/4.1%20Fundamental%20Counting%20Rules.html), [4.2](http://book.imt-decal.org/4.%20Counting/4.2%20Permutations%20and%20Combinations.html) | |
-| 8 | Tues. 03/19 | Stars and Bars | [4.3](http://book.imt-decal.org/4.%20Counting/4.3%20Stars%20and%20Bars.html) | |
-| | Thurs. 03/21 | Pascal's Triangle, Combinatorial Proofs | [4.4](http://book.imt-decal.org/4.%20Counting/4.4%20Pascal's%20Triangle.html), [4.5](http://book.imt-decal.org/4.%20Counting/4.5%20Combinatorial%20Proofs.html) | |
+|  | Thurs. 01/31 | Set Theory, Functions | [Slides](assets/lecture/lecture2.pdf) <br> [Video](https://youtu.be/P90P-sYNgPs) <br> Readings: 1.1, 1.2 | [HW 1](assets/hw/hw1.pdf) |
+| 2 | Tues. 02/05 | Bijections, Number Sets | [Slides](assets/lecture/lecture3.pdf) <br> [Video](https://youtu.be/1DwBc_OP0I8) <br> Readings: 1.2, 1.3 | |
+| | Thurs. 02/07 | Number Sets, Propositional Logic | Readings: 1.3, 1.4 | |
+| 3 | Tues. 02/12 | Propositional Logic | Readings: 1.4, 1.5  | |
+| | Thurs. 02/14 | Basic Proof Techniques <br> **Quiz 1 in class** | Readings: 2.1 | |
+| 4 | Tues. 02/19 | Basic Proof Techniques | Readings: 2.1 | |
+| | Thurs. 02/21 | Induction | Readings: 2.2 | |
+| 5 | Tues. 02/26 | Induction | Readings: 2.2 | |
+| | Thurs. 02/28 | Series and Sequences <br> **Quiz 2 in class**  | Readings: 2.3 | |
+| 6 | Tues. 03/05 | Division Algorithm and Primality | Readings: 3.1 | |
+| | Thurs. 03/07 | Modular Arithmetic | Readings: 3.2 | |
+| 7 | Tues. 03/12 | Finding Modular Inverses | Readings: 3.3 | |
+| | Thurs. 03/14 | Counting <br> **Quiz 3 in class** | Readings: 4.1, 4.2 | |
+| 8 | Tues. 03/19 | Stars and Bars | Readings: 4.3 | |
+| | Thurs. 03/21 | Pascal's Triangle, Combinatorial Proofs | Readings: 4.4, 4.5 | |
 | 9 | Tues. 03/26 | No Class (Spring Break) | N/A | N/A |
 | | Thurs. 03/28 | No Class (Spring Break) | N/A | N/A |
-| 10 | Tues. 04/02 | Combinatorial Proofs | [4.5](http://book.imt-decal.org/4.%20Counting/4.5%20Combinatorial%20Proofs.html) | |
-| | Thurs. 04/04 | Binomial Theorem | [5.1](http://book.imt-decal.org/5.%20Polynomials/5.1%20Binomial%20Theorem.html) | |
-| 11 | Tues. 04/09 | Binomial Theorem <br> **Quiz 4 in class** | [5.1](http://book.imt-decal.org/5.%20Polynomials/5.1%20Binomial%20Theorem.html) | |
-| | Thurs. 04/11 | Vieta's Formulas | [5.2](http://book.imt-decal.org/5.%20Polynomials/5.2%20Vieta's%20Formulas.html) | |
-| 12 | Tues. 04/16 | Vieta's Formulas | [5.2](http://book.imt-decal.org/5.%20Polynomials/5.2%20Vieta's%20Formulas.html) | |
-| | Thurs. 04/18 | Polynomial Interpolation | [5.3](http://book.imt-decal.org/5.%20Polynomials/5.3%20Representation,%20Interpolation.html) | |
-| 13 | Tues. 04/23 | Factor and Remainder Theorems | [5.4](http://book.imt-decal.org/5.%20Polynomials/5.4%20Factor%20and%20Remainder%20Theorems,%20Complex%20Roots.html) | |
+| 10 | Tues. 04/02 | Combinatorial Proofs | Readings: 4.5 | |
+| | Thurs. 04/04 | Binomial Theorem | Readings: 5.1 | |
+| 11 | Tues. 04/09 | Binomial Theorem <br> **Quiz 4 in class** | Readings: 5.1 | |
+| | Thurs. 04/11 | Vieta's Formulas | Readings: 5.2 | |
+| 12 | Tues. 04/16 | Vieta's Formulas | Readings: 5.2 | |
+| | Thurs. 04/18 | Polynomial Interpolation | Readings: 5.3 | |
+| 13 | Tues. 04/23 | Factor and Remainder Theorems | Readings: 5.4 | |
 | | Thurs. 04/25 | Review | | |
 | 14 | Tues. 04/30 | **Quiz 5 in class** | | |
 | | Thurs. 05/02 | Summary, What's Next  | | |
