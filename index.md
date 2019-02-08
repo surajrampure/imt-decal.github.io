@@ -91,36 +91,36 @@ Read the [textbook here](http://book.imt-decal.org).
 <table style="width:125%; border-collapse: collapse;">
 <tbody>
 
-|Week|Date|Topic|Resources|Homework|
-|:---:|---|---|---|---|
+|Week|Date|Topic|Resources|Readings|Homework|
+|:---:|---|---|---|---|---|
 | 1 | Tues. 01/29 | Course Overview | [Slides](assets/lecture/lecture1.pdf) <br> [Notebook](assets/lecture/lecture1_notebook.html) <br> [Video](https://youtu.be/oSVre2fs5qE) | N/A |
-|  | Thurs. 01/31 | Set Theory, Functions | [Slides](assets/lecture/lecture2.pdf) <br> [Video](https://youtu.be/P90P-sYNgPs) <br> Readings: 1.1, 1.2 | [HW 1](assets/hw/hw1.pdf) |
-| 2 | Tues. 02/05 | Bijections, Number Sets | [Slides](assets/lecture/lecture3.pdf) <br> [Video](https://youtu.be/1DwBc_OP0I8) <br> Readings: 1.2, 1.3 | |
-| | Thurs. 02/07 | Number Sets, Propositional Logic | [Slides](assets/lecture/lecture4.pdf) <br> [Video](https://youtu.be/LWSBhzJ_9ik) Readings: 1.3, 1.4 | |
-| 3 | Tues. 02/12 | Propositional Logic | Readings: 1.4, 1.5  | |
-| | Thurs. 02/14 | Basic Proof Techniques <br> **Quiz 1 in class** | Readings: 2.1 | |
-| 4 | Tues. 02/19 | Basic Proof Techniques | Readings: 2.1 | |
-| | Thurs. 02/21 | Induction | Readings: 2.2 | |
-| 5 | Tues. 02/26 | Induction | Readings: 2.2 | |
-| | Thurs. 02/28 | Series and Sequences <br> **Quiz 2 in class**  | Readings: 2.3 | |
-| 6 | Tues. 03/05 | Division Algorithm and Primality | Readings: 3.1 | |
-| | Thurs. 03/07 | Modular Arithmetic | Readings: 3.2 | |
-| 7 | Tues. 03/12 | Finding Modular Inverses | Readings: 3.3 | |
-| | Thurs. 03/14 | Counting <br> **Quiz 3 in class** | Readings: 4.1, 4.2 | |
-| 8 | Tues. 03/19 | Stars and Bars | Readings: 4.3 | |
-| | Thurs. 03/21 | Pascal's Triangle, Combinatorial Proofs | Readings: 4.4, 4.5 | |
+|  | Thurs. 01/31 | Set Theory, Functions | [Slides](assets/lecture/lecture2.pdf) <br> [Video](https://youtu.be/P90P-sYNgPs) <br> | 1.1, 1.2 | [HW 1](assets/hw/hw1.pdf) |
+| 2 | Tues. 02/05 | Bijections, Number Sets | [Slides](assets/lecture/lecture3.pdf) <br> [Video](https://youtu.be/1DwBc_OP0I8) <br> | 1.2, 1.3 | |
+| | Thurs. 02/07 | Number Sets, Propositional Logic | [Slides](assets/lecture/lecture4.pdf) <br> [Video](https://youtu.be/LWSBhzJ_9ik) | 1.3, 1.4 | |
+| 3 | Tues. 02/12 | Propositional Logic | N/A | 1.4, 1.5  | |
+| | Thurs. 02/14 | Basic Proof Techniques <br> **Quiz 1 in class** | N/A | 2.1 | |
+| 4 | Tues. 02/19 | Basic Proof Techniques | N/A | 2.1 | |
+| | Thurs. 02/21 | Induction | N/A | 2.2 | |
+| 5 | Tues. 02/26 | Induction | N/A | 2.2 | |
+| | Thurs. 02/28 | Series and Sequences <br> **Quiz 2 in class**  | N/A | 2.3 | |
+| 6 | Tues. 03/05 | Division Algorithm and Primality | N/A | |
+| | Thurs. 03/07 | Modular Arithmetic | N/A | 3.2 | |
+| 7 | Tues. 03/12 | Finding Modular Inverses | N/A | 3.3 | |
+| | Thurs. 03/14 | Counting <br> **Quiz 3 in class** | N/A | 4.1, 4.2 | |
+| 8 | Tues. 03/19 | Stars and Bars | N/A | 4.3 | |
+| | Thurs. 03/21 | Pascal's Triangle, Combinatorial Proofs | N/A | 4.4, 4.5 | |
 | 9 | Tues. 03/26 | No Class (Spring Break) | N/A | N/A |
 | | Thurs. 03/28 | No Class (Spring Break) | N/A | N/A |
-| 10 | Tues. 04/02 | Combinatorial Proofs | Readings: 4.5 | |
-| | Thurs. 04/04 | Binomial Theorem | Readings: 5.1 | |
-| 11 | Tues. 04/09 | Binomial Theorem <br> **Quiz 4 in class** | Readings: 5.1 | |
-| | Thurs. 04/11 | Vieta's Formulas | Readings: 5.2 | |
-| 12 | Tues. 04/16 | Vieta's Formulas | Readings: 5.2 | |
-| | Thurs. 04/18 | Polynomial Interpolation | Readings: 5.3 | |
-| 13 | Tues. 04/23 | Factor and Remainder Theorems | Readings: 5.4 | |
-| | Thurs. 04/25 | Review | | |
-| 14 | Tues. 04/30 | **Quiz 5 in class** | | |
-| | Thurs. 05/02 | Summary, What's Next  | | |
+| 10 | Tues. 04/02 | Combinatorial Proofs | N/A | 4.5 | |
+| | Thurs. 04/04 | Binomial Theorem | N/A | 5.1 | |
+| 11 | Tues. 04/09 | Binomial Theorem <br> **Quiz 4 in class** | N/A  | 5.1 | |
+| | Thurs. 04/11 | Vieta's Formulas | N/A | 5.2 | |
+| 12 | Tues. 04/16 | Vieta's Formulas | N/A | 5.2 | |
+| | Thurs. 04/18 | Polynomial Interpolation | N/A | 5.3 | |
+| 13 | Tues. 04/23 | Factor and Remainder Theorems | N/A | 5.4 | |
+| | Thurs. 04/25 | Review | N/A  | |
+| 14 | Tues. 04/30 | **Quiz 5 in class** | N/A | |
+| | Thurs. 05/02 | Summary, What's Next  | N/A | |
 
 </tbody>
 </table>
