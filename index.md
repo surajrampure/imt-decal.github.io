@@ -88,7 +88,7 @@ Read the [textbook here](http://book.imt-decal.org).
 - The schedule is tentative.
 
 
-<table style="width:50%; border-collapse: collapse;">
+<table style="width:125%; border-collapse: collapse;">
 <tbody>
 
 |Week|Date|Topic|Resources|Homework|
@@ -96,7 +96,7 @@ Read the [textbook here](http://book.imt-decal.org).
 | 1 | Tues. 01/29 | Course Overview | [Slides](assets/lecture/lecture1.pdf) <br> [Notebook](assets/lecture/lecture1_notebook.html) <br> [Video](https://youtu.be/oSVre2fs5qE) | N/A |
 |  | Thurs. 01/31 | Set Theory, Functions | [Slides](assets/lecture/lecture2.pdf) <br> [Video](https://youtu.be/P90P-sYNgPs) <br> Readings: 1.1, 1.2 | [HW 1](assets/hw/hw1.pdf) |
 | 2 | Tues. 02/05 | Bijections, Number Sets | [Slides](assets/lecture/lecture3.pdf) <br> [Video](https://youtu.be/1DwBc_OP0I8) <br> Readings: 1.2, 1.3 | |
-| | Thurs. 02/07 | Number Sets, Propositional Logic | Readings: 1.3, 1.4 | |
+| | Thurs. 02/07 | Number Sets, Propositional Logic | [Slides](assets/lecture/lecture4.pdf) <br> [Video](https://youtu.be/LWSBhzJ_9ik) Readings: 1.3, 1.4 | |
 | 3 | Tues. 02/12 | Propositional Logic | Readings: 1.4, 1.5  | |
 | | Thurs. 02/14 | Basic Proof Techniques <br> **Quiz 1 in class** | Readings: 2.1 | |
 | 4 | Tues. 02/19 | Basic Proof Techniques | Readings: 2.1 | |
