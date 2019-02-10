@@ -87,14 +87,13 @@ Read the [textbook here](http://book.imt-decal.org).
 - All readings are in the course textbook, [book.imt-decal.org](http://book.imt-decal.org). This is a relatively new resource, and is very much still in progress, so please report any errors you find.
 - The schedule is tentative.
 
-
-<table style="width:125%; border-collapse: collapse;">
+<table style="width: 100%, border-collapse: collapse;">
 <tbody>
 
 |Week|Date|Topic|Resources|Readings|Homework|
 |:---:|---|---|---|---|---|
 | 1 | Tue. 01/29 | Course Overview | [Slides](assets/lecture/lecture1.pdf) <br> [Notebook](assets/lecture/lecture1_notebook.html) <br> [Video](https://youtu.be/oSVre2fs5qE) | N/A |
-|  | Thu. 01/31 | Set Theory, Functions | [Slides](assets/lecture/lecture2.pdf) <br> [Video](https://youtu.be/P90P-sYNgPs) <br> | 1.1, 1.2 | [HW 1](assets/hw/hw1.pdf) <br> [Solutions](assets/hw/hw1_sol.pdf) |
+|  | Thu. 01/31 | Set Theory, Functions | [Slides](assets/lecture/lecture2.pdf) <br> [Video](https://youtu.be/P90P-sYNgPs) <br> | 1.1, 1.2 | [HW 1](assets/hw/hw1.pdf) <br> [Solutions](assets/hw/hw1_sol.pdf) <br> [Video](https://youtu.be/_bIum7LkZmk)|
 | 2 | Tue. 02/05 | Bijections, Number Sets | [Slides](assets/lecture/lecture3.pdf) <br> [Video](https://youtu.be/1DwBc_OP0I8) <br> | 1.2, 1.3 | |
 | | Thu. 02/07 | Number Sets, Propositional Logic | [Slides](assets/lecture/lecture4.pdf) <br> [Video](https://youtu.be/LWSBhzJ_9ik) | 1.3, 1.4 | [HW 2](assets/hw/hw2.pdf) |
 | 3 | Tue. 02/12 | Propositional Logic | N/A | 1.4, 1.5  | |
