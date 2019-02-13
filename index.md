@@ -96,7 +96,7 @@ Read the [textbook here](http://book.imt-decal.org).
 |  | Thu. 01/31 | Set Theory, Functions | [Slides](assets/lecture/lecture2.pdf) <br> [Video](https://youtu.be/P90P-sYNgPs) <br> | 1.1, 1.2 | [HW 1](assets/hw/hw1.pdf) <br> [Solutions](assets/hw/hw1_sol.pdf) <br> [Video](https://youtu.be/_bIum7LkZmk)|
 | 2 | Tue. 02/05 | Bijections, Number Sets | [Slides](assets/lecture/lecture3.pdf) <br> [Video](https://youtu.be/1DwBc_OP0I8) <br> | 1.2, 1.3 | |
 | | Thu. 02/07 | Number Sets, Propositional Logic | [Slides](assets/lecture/lecture4.pdf) <br> [Video](https://youtu.be/LWSBhzJ_9ik) | 1.3, 1.4 | [HW 2](assets/hw/hw2.pdf) |
-| 3 | Tue. 02/12 | Propositional Logic | N/A | 1.4, 1.5  | |
+| 3 | Tue. 02/12 | Propositional Logic | [Slides](assets/lecture/lecture5.pdf) <br> [Video](https://youtu.be/3ClYUxu82gM) | 1.4, 1.5  | |
 | | Thu. 02/14 | Basic Proof Techniques <br> **Quiz 1 in class** | N/A | 2.1 | |
 | 4 | Tue. 02/19 | Basic Proof Techniques | N/A | 2.1 | |
 | | Thu. 02/21 | Induction | N/A | 2.2 | |
