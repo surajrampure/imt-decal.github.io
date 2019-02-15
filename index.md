@@ -124,7 +124,11 @@ Read the [textbook here](http://book.imt-decal.org).
 </tbody>
 </table>
 
-Other resouces:
+Spring 2019 Quizzes:
+
+- Quiz 1: [blank](assets/quiz/quiz1.pdf), [solutions](assets/quiz/quiz1_sol.pdf)
+
+From previous semesters:
 
 - Fall 2018 [midterm](assets/fa18midterm.pdf) and [solutions](assets/fa18midterm_sol.pdf)
 - Fall 2018 [final](assets/fa18final.pdf) and [solutions](assets/fa18final_sol.pdf)
