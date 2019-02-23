@@ -97,9 +97,9 @@ Read the [textbook here](http://book.imt-decal.org).
 | 2 | Tue. 02/05 | Bijections, Number Sets | [Slides](assets/lecture/lecture3.pdf) <br> [Video](https://youtu.be/1DwBc_OP0I8) <br> | 1.2, 1.3 | |
 | | Thu. 02/07 | Number Sets, Propositional Logic | [Slides](assets/lecture/lecture4.pdf) <br> [Video](https://youtu.be/LWSBhzJ_9ik) | 1.3, 1.4 | [HW 2](assets/hw/hw2.pdf) <br> [Solutions](assets/hw/hw2_sol.pdf) |
 | 3 | Tue. 02/12 | Propositional Logic | [Slides](assets/lecture/lecture5.pdf) <br> [Video](https://youtu.be/3ClYUxu82gM) | 1.4, 1.5  | |
-| | Thu. 02/14 | Basic Proof Techniques <br> **Quiz 1 in class** | [Slides](assets/lecture/lecture6.pdf) <br> [Video](https://youtu.be/iuUjuVmdJC4) | 2.1 | [HW 3](assets/hw/hw3.pdf) |
+| | Thu. 02/14 | Basic Proof Techniques <br> **Quiz 1 in class** | [Slides](assets/lecture/lecture6.pdf) <br> [Video](https://youtu.be/iuUjuVmdJC4) | 2.1 | [HW 3](assets/hw/hw3.pdf) <br> [Solutions](assets/hw/hw3_sol.pdf) |
 | 4 | Tue. 02/19 | Basic Proof Techniques | [Slides](assets/lecture/lecture7.pdf) <br> [Video](https://youtu.be/X4-6d8_gNgY) | 2.1 | |
-| | Thu. 02/21 | Induction | [Slides](assets/lecture/lecture8.pdf) <br> [Video](https://youtu.be/hr0RlFPpwhI) | 2.2 | |
+| | Thu. 02/21 | Induction | [Slides](assets/lecture/lecture8.pdf) <br> [Video](https://youtu.be/hr0RlFPpwhI) | 2.2 | [HW 4](assets/hw/hw4.pdf)  |
 | 5 | Tue. 02/26 | Induction | N/A | 2.2 | |
 | | Thu. 02/28 | Series and Sequences <br> **Quiz 2 in class**  | N/A | 2.3 | |
 | 6 | Tue. 03/05 | Division Algorithm and Primality | N/A | |
