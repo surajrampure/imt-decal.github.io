@@ -101,7 +101,7 @@ Read the [textbook here](http://book.imt-decal.org).
 | 4 | Tue. 02/19 | Basic Proof Techniques | [Slides](assets/lecture/lecture7.pdf) <br> [Video](https://youtu.be/X4-6d8_gNgY) | 2.1 | |
 | | Thu. 02/21 | Induction | [Slides](assets/lecture/lecture8.pdf) <br> [Video](https://youtu.be/hr0RlFPpwhI) | 2.2 | [HW 4](assets/hw/hw4.pdf)  |
 | 5 | Tue. 02/26 | Strong Induction, Series and Sequences | [Slides](assets/lecture/lecture9.pdf) <br> [Video](https://youtu.be/7xsALNJdy34) | 2.2 | |
-| | Thu. 02/28 | Series and Sequences <br> **Quiz 2 in class**  | N/A | 2.3 | |
+| | Thu. 02/28 | Series and Sequences <br> **Quiz 2 in class**  | [Slides](assets/lecture/lecture10.pdf) <br> [Video](https://youtu.be/qUkuBO8OAhQ) | 2.3 | |
 | 6 | Tue. 03/05 | Division Algorithm and Primality | N/A | |
 | | Thu. 03/07 | Modular Arithmetic | N/A | 3.2 | |
 | 7 | Tue. 03/12 | Finding Modular Inverses | N/A | 3.3 | |
