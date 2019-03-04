@@ -83,7 +83,7 @@ Read the [textbook here](http://book.imt-decal.org).
 
 </a>
 
-- Homework follows a Friday-Friday schedule. 
+- Homework generally follows a Friday-Friday schedule. 
 - All readings are in the course textbook, [book.imt-decal.org](http://book.imt-decal.org). This is a relatively new resource, and is very much still in progress, so please report any errors you find.
 - The schedule is tentative.
 
@@ -99,9 +99,9 @@ Read the [textbook here](http://book.imt-decal.org).
 | 3 | Tue. 02/12 | Propositional Logic | [Slides](assets/lecture/lecture5.pdf) <br> [Video](https://youtu.be/3ClYUxu82gM) | 1.4, 1.5  | |
 | | Thu. 02/14 | Basic Proof Techniques <br> **Quiz 1 in class** | [Slides](assets/lecture/lecture6.pdf) <br> [Video](https://youtu.be/iuUjuVmdJC4) | 2.1 | [HW 3](assets/hw/hw3.pdf) <br> [Solutions](assets/hw/hw3_sol.pdf) |
 | 4 | Tue. 02/19 | Basic Proof Techniques | [Slides](assets/lecture/lecture7.pdf) <br> [Video](https://youtu.be/X4-6d8_gNgY) | 2.1 | |
-| | Thu. 02/21 | Induction | [Slides](assets/lecture/lecture8.pdf) <br> [Video](https://youtu.be/hr0RlFPpwhI) | 2.2 | [HW 4](assets/hw/hw4.pdf)  |
+| | Thu. 02/21 | Induction | [Slides](assets/lecture/lecture8.pdf) <br> [Video](https://youtu.be/hr0RlFPpwhI) | 2.2 | [HW 4](assets/hw/hw4.pdf) <br> [Solutions](assets/hw/hw5.pdf)  |
 | 5 | Tue. 02/26 | Strong Induction, Series and Sequences | [Slides](assets/lecture/lecture9.pdf) <br> [Video](https://youtu.be/7xsALNJdy34) | 2.2 | |
-| | Thu. 02/28 | Series and Sequences <br> **Quiz 2 in class**  | [Slides](assets/lecture/lecture10.pdf) <br> [Video](https://youtu.be/qUkuBO8OAhQ) | 2.3 | |
+| | Thu. 02/28 | Series and Sequences <br> **Quiz 2 in class**  | [Slides](assets/lecture/lecture10.pdf) <br> [Video](https://youtu.be/qUkuBO8OAhQ) | 2.3 | [HW 5](assets/hw/hw5.pdf) <br> **due 3/15** |
 | 6 | Tue. 03/05 | Division Algorithm and Primality | N/A | |
 | | Thu. 03/07 | Modular Arithmetic | N/A | 3.2 | |
 | 7 | Tue. 03/12 | Finding Modular Inverses | N/A | 3.3 | |
@@ -127,6 +127,7 @@ Read the [textbook here](http://book.imt-decal.org).
 Spring 2019 Quizzes:
 
 - Quiz 1: [blank](assets/quiz/quiz1.pdf), [solutions](assets/quiz/quiz1_sol.pdf)
+- Quiz 2: [blank](assets/quiz/quiz2.pdf), [solutions](assets/quiz/quiz2_sol.pdf)
 
 From previous semesters:
 
