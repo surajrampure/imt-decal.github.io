@@ -101,9 +101,9 @@ Read the [textbook here](http://book.imt-decal.org).
 | 4 | Tue. 02/19 | Basic Proof Techniques | [Slides](assets/lecture/lecture7.pdf) <br> [Video](https://youtu.be/X4-6d8_gNgY) | 2.1 | |
 | | Thu. 02/21 | Induction | [Slides](assets/lecture/lecture8.pdf) <br> [Video](https://youtu.be/hr0RlFPpwhI) | 2.2 | [HW 4](assets/hw/hw4.pdf) <br> [Solutions](assets/hw/hw4_sol.pdf)  |
 | 5 | Tue. 02/26 | Strong Induction, Series and Sequences | [Slides](assets/lecture/lecture9.pdf) <br> [Video](https://youtu.be/7xsALNJdy34) | 2.2 | |
-| | Thu. 02/28 | Series and Sequences <br> **Quiz 2 in class**  | [Slides](assets/lecture/lecture10.pdf) <br> [Video](https://youtu.be/qUkuBO8OAhQ) | 2.3 | [HW 5](assets/hw/hw5.pdf) <br> **due 3/15** |
-| 6 | Tue. 03/05 | Division Algorithm and Primality | [Slides](assets/lecture/lecture11.pdf) <br> [Video](https://youtu.be/6bZnYQHALtQ) | |
-| | Thu. 03/07 | Modular Arithmetic | N/A | 3.2 | |
+| | Thu. 02/28 | Series and Sequences <br> **Quiz 2 in class**  | [Slides](assets/lecture/lecture10.pdf) <br> [Video](https://youtu.be/qUkuBO8OAhQ) | 2.3 | [HW 5](assets/hw/hw5.pdf) <br> **due 3/17** |
+| 6 | Tue. 03/05 | Division Algorithm and Primality | [Slides](assets/lecture/lecture11.pdf) <br> [Video](https://youtu.be/6bZnYQHALtQ) | 3.1 |
+| | Thu. 03/07 | Modular Arithmetic | [Slides](assets/lecture/lecture12.pdf) <br> [Video](https://youtu.be/vfr6UkwkTDo) | 3.2 | |
 | 7 | Tue. 03/12 | Finding Modular Inverses | N/A | 3.3 | |
 | | Thu. 03/14 | Counting <br> **Quiz 3 in class** | N/A | 4.1, 4.2 | |
 | 8 | Tue. 03/19 | Stars and Bars | N/A | 4.3 | |
