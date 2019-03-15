@@ -104,13 +104,13 @@ Read the [textbook here](http://book.imt-decal.org).
 | | Thu. 02/28 | Series and Sequences <br> **Quiz 2 in class**  | [Slides](assets/lecture/lecture10.pdf) <br> [Video](https://youtu.be/qUkuBO8OAhQ) | 2.3 | [HW 5](assets/hw/hw5.pdf) <br> **due 3/17** |
 | 6 | Tue. 03/05 | Division Algorithm and Primality | [Slides](assets/lecture/lecture11.pdf) <br> [Video](https://youtu.be/6bZnYQHALtQ) | 3.1 |
 | | Thu. 03/07 | Modular Arithmetic | [Slides](assets/lecture/lecture12.pdf) <br> [Video](https://youtu.be/vfr6UkwkTDo) | 3.2 | |
-| 7 | Tue. 03/12 | Finding Modular Inverses | N/A | 3.3 | |
-| | Thu. 03/14 | Counting <br> **Quiz 3 in class** | N/A | 4.1, 4.2 | |
-| 8 | Tue. 03/19 | Stars and Bars | N/A | 4.3 | |
-| | Thu. 03/21 | Pascal's Triangle, Combinatorial Proofs | N/A | 4.4, 4.5 | |
+| 7 | Tue. 03/12 | Finding Modular Inverses (Lecture by Ani Nrusimha) | N/A | | |
+| | Thu. 03/14 | Review of Number Theory and Modular Arithmetic (Lecture by TAs Adel, Jai, Sagnik) <br> **(Quiz 3 online)** | N/A | | |
+| 8 | Tue. 03/19 | Counting | N/A | | |
+| | Thu. 03/21 | Counting | N/A | | |
 | 9 | Tue. 03/26 | No Class (Spring Break) | N/A | N/A |
 | | Thu. 03/28 | No Class (Spring Break) | N/A | N/A |
-| 10 | Tue. 04/02 | Combinatorial Proofs | N/A | 4.5 | |
+| 10 | Tue. 04/02 | Combinatorial Proofs | N/A | | |
 | | Thu. 04/04 | Binomial Theorem | N/A | 5.1 | |
 | 11 | Tue. 04/09 | Binomial Theorem <br> **Quiz 4 in class** | N/A  | 5.1 | |
 | | Thu. 04/11 | Vieta's Formulas | N/A | 5.2 | |
@@ -128,6 +128,7 @@ Spring 2019 Quizzes:
 
 - Quiz 1: [blank](assets/quiz/quiz1.pdf), [solutions](assets/quiz/quiz1_sol.pdf)
 - Quiz 2: [blank](assets/quiz/quiz2.pdf), [solutions](assets/quiz/quiz2_sol.pdf)
+- Quiz 3: [blank](assets/quiz/quiz3.pdf)
 
 From previous semesters:
 
