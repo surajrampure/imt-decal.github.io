@@ -177,7 +177,7 @@ Read the [textbook here](http://book.imt-decal.org).
 <td>Series and Sequences <br> <strong>Quiz 2 in class</strong></td>
 <td><a href="assets/lecture/lecture10.pdf">Slides</a><br><a href="https://youtu.be/qUkuBO8OAhQ">Video</a></td>
 <td>2.3</td>
-<td><a href="assets/hw/hw5.pdf">HW 5</a><br><strong>due 3/17</strong></td>
+<td><a href="assets/hw/hw5.pdf">HW 5</a><br><a href="assets/hw/hw5_sol.pdf">Solutions</a></td>
 </tr>
 <tr class="odd">
 <td>6</td>
