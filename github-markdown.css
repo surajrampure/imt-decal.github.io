@@ -574,7 +574,7 @@
 .markdown-body table td {
   padding: 6px 13px;
   border: 1px solid #dfe2e5;
-  text-align: center;
+  text-align: left; /* this was originally center */
 }
 
 .markdown-body table tr {

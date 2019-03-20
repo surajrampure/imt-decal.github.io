@@ -18,10 +18,6 @@
         }
     }
 
-    .table {
-        width: 980px;
-    }
-
 </style>
 
 <article class='markdown-body'>
@@ -38,7 +34,7 @@ Jump to
 <a href="#faq">FAQs</a>, or
 <a href="#staff">Staff</a>
 
-Read the [textbook here](http://book.imt-decal.org).
+Access the notes for this class [here](http://notes.imt-decal.org).
 
 ---
 
@@ -76,16 +72,15 @@ Read the [textbook here](http://book.imt-decal.org).
 </a>
 
 - Homework generally follows a Friday-Friday schedule. 
-- All readings are in the course textbook, [book.imt-decal.org](http://book.imt-decal.org). This is a relatively new resource, and is very much still in progress, so please report any errors you find.
+- Notes written specifically for this course can be found at [notes.imt-decal.org](http://notes.imt-decal.org). Other readings will be linked in the table below. 
 - The schedule is tentative.
 
 <table style="width:100%;">
 <colgroup>
 <col style="width: 5%" />
-<col style="width: 15%" />
+<col style="width: 10%" />
 <col style="width: 40%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
+<col style="width: 40%" />
 <col style="width: 5%" />
 </colgroup>
 <thead>
@@ -94,7 +89,6 @@ Read the [textbook here](http://book.imt-decal.org).
 <th>Date</th>
 <th>Topic</th>
 <th>Resources</th>
-<th>Readings</th>
 <th>Homework</th>
 </tr>
 </thead>
@@ -105,46 +99,40 @@ Read the [textbook here](http://book.imt-decal.org).
 <td>Course Overview</td>
 <td><a href="assets/lecture/lecture1.pdf">Slides</a><br><a href="assets/lecture/lecture1_notebook.html">Notebook</a><br><a href="https://youtu.be/oSVre2fs5qE">Video</a></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td>Thu. 01/31</td>
 <td>Set Theory, Functions</td>
-<td><a href="assets/lecture/lecture2.pdf">Slides</a><br><a href="https://youtu.be/P90P-sYNgPs">Video</a><br></td>
-<td>1.1, 1.2</td>
+<td><a href="assets/lecture/lecture2.pdf">Slides</a><br><a href="https://youtu.be/P90P-sYNgPs">Video</a><br><a href="http://notes.imt-decal.org/sets/sets-and-set-operations.html">Note: Sets and Set Operations</a><br><a href="http://notes.imt-decal.org/sets/functions-and-bijections.html">Note: Functions and Bijections</a></td>
 <td><a href="assets/hw/hw1.pdf">HW 1</a><br><a href="assets/hw/hw1_sol.pdf">Solutions</a><br><a href="https://youtu.be/_bIum7LkZmk">Video</a></td>
 </tr>
 <tr class="odd">
 <td>2</td>
 <td>Tue. 02/05</td>
 <td>Bijections, Number Sets</td>
-<td><a href="assets/lecture/lecture3.pdf">Slides</a><br><a href="https://youtu.be/1DwBc_OP0I8">Video</a><br></td>
-<td>1.2, 1.3</td>
+<td><a href="assets/lecture/lecture3.pdf">Slides</a><br><a href="https://youtu.be/1DwBc_OP0I8">Video</a><br><a href="http://notes.imt-decal.org/sets/sets-of-numbers.html">Note: Sets of Numbers</a></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td>Thu. 02/07</td>
 <td>Number Sets, Propositional Logic</td>
-<td><a href="assets/lecture/lecture4.pdf">Slides</a><br><a href="https://youtu.be/LWSBhzJ_9ik">Video</a></td>
-<td>1.3, 1.4</td>
+<td><a href="assets/lecture/lecture4.pdf">Slides</a><br><a href="https://youtu.be/LWSBhzJ_9ik">Video</a><br><a href="http://notes.imt-decal.org/sets/propositional-logic.html">Note: Propositional Logic</a></td>
 <td><a href="assets/hw/hw2.pdf">HW 2</a><br><a href="assets/hw/hw2_sol.pdf">Solutions</a></td>
 </tr>
 <tr class="odd">
 <td>3</td>
 <td>Tue. 02/12</td>
 <td>Propositional Logic</td>
-<td><a href="assets/lecture/lecture5.pdf">Slides</a><br><a href="https://youtu.be/3ClYUxu82gM">Video</a></td>
-<td>1.4, 1.5</td>
+<td><a href="assets/lecture/lecture5.pdf">Slides</a><br><a href="https://youtu.be/3ClYUxu82gM">Video</a><br><a href="http://notes.imt-decal.org/sets/cheat-sheet.html">Note: Notation Cheat Sheet</a></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td>Thu. 02/14</td>
 <td>Basic Proof Techniques <br> <strong>Quiz 1 in class</strong></td>
-<td><a href="assets/lecture/lecture6.pdf">Slides</a><br><a href="https://youtu.be/iuUjuVmdJC4">Video</a></td>
-<td>2.1</td>
+<td><a href="assets/lecture/lecture6.pdf">Slides</a><br><a href="https://youtu.be/iuUjuVmdJC4">Video</a><br><a href="http://notes.imt-decal.org/proofs/foundational-proof-techniques.html">Note: Foundational Proof Techniques</a></td>
 <td><a href="assets/hw/hw3.pdf">HW 3</a><br><a href="assets/hw/hw3_sol.pdf">Solutions</a></td>
 </tr>
 <tr class="odd">
@@ -152,15 +140,13 @@ Read the [textbook here](http://book.imt-decal.org).
 <td>Tue. 02/19</td>
 <td>Basic Proof Techniques</td>
 <td><a href="assets/lecture/lecture7.pdf">Slides</a><br><a href="https://youtu.be/X4-6d8_gNgY">Video</a></td>
-<td>2.1</td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td>Thu. 02/21</td>
 <td>Induction</td>
-<td><a href="assets/lecture/lecture8.pdf">Slides</a><br><a href="https://youtu.be/hr0RlFPpwhI">Video</a></td>
-<td>2.2</td>
+<td><a href="assets/lecture/lecture8.pdf">Slides</a><br><a href="https://youtu.be/hr0RlFPpwhI">Video</a><br><a href="http://notes.imt-decal.org/proofs/mathematical-induction.html">Note: Mathematical Induction</a></td>
 <td><a href="assets/hw/hw4.pdf">HW 4</a><br><a href="assets/hw/hw4_sol.pdf">Solutions</a></td>
 </tr>
 <tr class="odd">
@@ -168,86 +154,75 @@ Read the [textbook here](http://book.imt-decal.org).
 <td>Tue. 02/26</td>
 <td>Strong Induction, Series and Sequences</td>
 <td><a href="assets/lecture/lecture9.pdf">Slides</a><br><a href="https://youtu.be/7xsALNJdy34">Video</a></td>
-<td>2.2</td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td>Thu. 02/28</td>
 <td>Series and Sequences <br> <strong>Quiz 2 in class</strong></td>
-<td><a href="assets/lecture/lecture10.pdf">Slides</a><br><a href="https://youtu.be/qUkuBO8OAhQ">Video</a></td>
-<td>2.3</td>
+<td><a href="assets/lecture/lecture10.pdf">Slides</a><br><a href="https://youtu.be/qUkuBO8OAhQ">Video</a><br><a href="http://notes.imt-decal.org/proofs/series-and-sequences.html">Note: Series and Sequences</a></td>
 <td><a href="assets/hw/hw5.pdf">HW 5</a><br><a href="assets/hw/hw5_sol.pdf">Solutions</a></td>
 </tr>
 <tr class="odd">
 <td>6</td>
 <td>Tue. 03/05</td>
 <td>Division Algorithm and Primality</td>
-<td><a href="assets/lecture/lecture11.pdf">Slides</a><br><a href="https://youtu.be/6bZnYQHALtQ">Video</a></td>
-<td>3.1</td>
+<td><a href="assets/lecture/lecture11.pdf">Slides</a><br><a href="https://youtu.be/6bZnYQHALtQ">Video</a><br><a href="http://notes.imt-decal.org/nt/primality-and-divisibility.html">Note: Primality and Divisibility</a></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td>Thu. 03/07</td>
 <td>Modular Arithmetic</td>
-<td><a href="assets/lecture/lecture12.pdf">Slides</a><br><a href="https://youtu.be/vfr6UkwkTDo">Video</a></td>
-<td>3.2</td>
+<td><a href="assets/lecture/lecture12.pdf">Slides</a><br><a href="https://youtu.be/vfr6UkwkTDo">Video</a><br><a href="http://notes.imt-decal.org/nt/modular-arithmetic.html">Note: Modular Arithmetic</a></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>7</td>
 <td>Tue. 03/12</td>
-<td>Finding Modular Inverses<br>(Ani Nrusimha,<code>aninrusimha@berkeley.edu</code>)</td>
-<td>N/A</td>
-<td></td>
+<td>Finding Modular Inverses<br>(Ani Nrusimha*)</td>
+<td><a href="assets/lecture/fa18-inverses-slides.pdf">Slides (from Fall 2018)</a><br><a href="https://youtu.be/gyABFBq0V3A">Video (from Fall 2018)</a></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td>Thu. 03/14</td>
 <td>Review of NT/MA<br>(Lecture by TAs Adel, Jai, Sagnik)<br><strong>Quiz 3 online</strong></td>
-<td>N/A</td>
-<td></td>
+<td>Refer to Homework 5 solutions</td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>8</td>
 <td>Tue. 03/19</td>
 <td>Counting<br>(Ani Nrusimha)</td>
-<td>N/A</td>
-<td></td>
+<td><a href="https://docs.google.com/presentation/d/1lVI1y7Cu5bbU_vyFByXOGP8WAWzdxIC1kQAbzBAWKas/edit?usp=sharing">Slides by Ani</a><br><a href="assets/lecture/fa18-counting-slides.pdf">Slides (from Fall 2018)</a><br><a href="assets/other/jerry-counting.pdf">Note: Counting (by Jerry Huang)</a></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td>Thu. 03/21</td>
 <td>Counting<br>(Ani Nrusimha)</td>
-<td>N/A</td>
-<td></td>
-<td></td>
+<td>Slides by Ani<br><a href="https://www.youtube.com/watch?v=epY_8lcKxCU&list=PLTankVhPxGKrESpyDmVfQY-UloCCM1YIu">Video (from Fall 2018)</a><br><a href="http://notes.imt-decal.org/counting/stars-and-bars.html">Note: Stars and Bars</a></td>
+<td>HW 6 (due 4/7)</td>
 </tr>
 <tr class="odd">
 <td>9</td>
 <td>Tue. 03/26</td>
 <td>No Class (Spring Break)</td>
-<td>N/A</td>
-<td>N/A</td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td>Thu. 03/28</td>
 <td>No Class (Spring Break)</td>
-<td>N/A</td>
-<td>N/A</td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>10</td>
 <td>Tue. 04/02</td>
 <td>Combinatorial Proofs</td>
-<td>N/A</td>
 <td></td>
 <td></td>
 </tr>
@@ -255,55 +230,48 @@ Read the [textbook here](http://book.imt-decal.org).
 <td></td>
 <td>Thu. 04/04</td>
 <td>Binomial Theorem</td>
-<td>N/A</td>
-<td>5.1</td>
+<td><a href="http://notes.imt-decal.org/polynomials/binomial-theorem.html">Note: Binomial Theorem</a></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>11</td>
 <td>Tue. 04/09</td>
 <td>Binomial Theorem <br> <strong>Quiz 4 in class</strong></td>
-<td>N/A</td>
-<td>5.1</td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td>Thu. 04/11</td>
 <td>Vieta’s Formulas</td>
-<td>N/A</td>
-<td>5.2</td>
+<td><a href="http://notes.imt-decal.org/polynomials/vietas-formulas.html">Note: Vieta's Formulas</a></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>12</td>
 <td>Tue. 04/16</td>
 <td>Vieta’s Formulas</td>
-<td>N/A</td>
-<td>5.2</td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td>Thu. 04/18</td>
 <td>Polynomial Interpolation</td>
-<td>N/A</td>
-<td>5.3</td>
+<td><a href="http://notes.imt-decal.org/polynomials/representation-and-interpolation.html">Note: Representation and Interpolation</a></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>13</td>
 <td>Tue. 04/23</td>
-<td>Factor and Remainder Theorems</td>
-<td>N/A</td>
-<td>5.4</td>
+<td>Factor and Remainder Theorems (Tentative)</td>
+<td><a href="http://notes.imt-decal.org/polynomials/factor-and-remainder-theorem.html">Note: Factor and Remainder Theorems</a></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td>Thu. 04/25</td>
 <td>Review</td>
-<td>N/A</td>
 <td></td>
 <td></td>
 </tr>
@@ -311,7 +279,6 @@ Read the [textbook here](http://book.imt-decal.org).
 <td>14</td>
 <td>Tue. 04/30</td>
 <td><strong>Quiz 5 in class</strong></td>
-<td>N/A</td>
 <td></td>
 <td></td>
 </tr>
@@ -319,7 +286,6 @@ Read the [textbook here](http://book.imt-decal.org).
 <td></td>
 <td>Thu. 05/02</td>
 <td>Summary, What’s Next</td>
-<td>N/A</td>
 <td></td>
 <td></td>
 </tr>
@@ -329,6 +295,8 @@ Read the [textbook here](http://book.imt-decal.org).
 </div>
 
 </div>
+
+_* Ani Nrusimha, `aninrusimha@berkeley.edu`, will be covering these lectures. Feel free to reach out to him with any questions._ 
 
 Spring 2019 Quizzes:
 
