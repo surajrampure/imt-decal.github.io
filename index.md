@@ -195,7 +195,7 @@ Access the notes for this class [here](http://notes.imt-decal.org).
 <td>8</td>
 <td>Tue. 03/19</td>
 <td>Counting<br>(Ani Nrusimha)</td>
-<td><a href="https://docs.google.com/presentation/d/1lVI1y7Cu5bbU_vyFByXOGP8WAWzdxIC1kQAbzBAWKas/edit?usp=sharing">Slides by Ani</a><br><a href="assets/lecture/fa18-counting-slides.pdf">Slides (from Fall 2018)</a><br><a href="assets/other/jerry-counting.pdf">Note: Counting (by Jerry Huang)</a></td>
+<td><a href="https://docs.google.com/presentation/d/1lVI1y7Cu5bbU_vyFByXOGP8WAWzdxIC1kQAbzBAWKas/edit?usp=sharing">Slides by Ani</a><br><a href="assets/lecture/fa18-counting-slides.pdf">Slides (from Fall 2018)</a><br><a href="http://notes.imt-decal.org/counting/principle-include-exclude.html">Note: Principle of Inclusion-Exclusion</a><br><a href="http://notes.imt-decal.org/counting/key-examples-counting.html">Note: Key Examples in Counting</a><br><a href="assets/other/jerry-counting.pdf">Note: Counting (by Jerry Huang)</a></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -203,7 +203,7 @@ Access the notes for this class [here](http://notes.imt-decal.org).
 <td>Thu. 03/21</td>
 <td>Counting<br>(Ani Nrusimha)</td>
 <td>Slides by Ani<br><a href="https://www.youtube.com/watch?v=epY_8lcKxCU&list=PLTankVhPxGKrESpyDmVfQY-UloCCM1YIu">Video (from Fall 2018)</a><br><a href="http://notes.imt-decal.org/counting/stars-and-bars.html">Note: Stars and Bars</a></td>
-<td>HW 6 (due 4/7)</td>
+<td><a href="assets/hw/hw6.pdf">HW 6</a><br>(due 4/7)</td>
 </tr>
 <tr class="odd">
 <td>9</td>
@@ -298,17 +298,24 @@ Access the notes for this class [here](http://notes.imt-decal.org).
 
 _* Ani Nrusimha, `aninrusimha@berkeley.edu`, will be covering these lectures. Feel free to reach out to him with any questions._ 
 
-Spring 2019 Quizzes:
+**Spring 2019 quizzes:**
 
 - Quiz 1: [blank](assets/quiz/quiz1.pdf), [solutions](assets/quiz/quiz1_sol.pdf)
 - Quiz 2: [blank](assets/quiz/quiz2.pdf), [solutions](assets/quiz/quiz2_sol.pdf)
 - Quiz 3: [blank](assets/quiz/quiz3.pdf), [solutions](assets/quiz/quiz3_sol.pdf)
 
-From previous semesters:
+**From previous semesters:**
 
 - Fall 2018 [midterm](assets/fa18midterm.pdf) and [solutions](assets/fa18midterm_sol.pdf)
 - Fall 2018 [final](assets/fa18final.pdf) and [solutions](assets/fa18final_sol.pdf)
 - Fall 2018 [webcasts](https://www.youtube.com/playlist?list=PLTankVhPxGKrESpyDmVfQY-UloCCM1YIu)
+
+**Additional resources**:
+
+- _How to Prove It: A Structured Approach, by Velleman (2nd edition)_ covers the material in our class through mathematical induction, albeit in a slightly different order. [link](assets/other/how-to-prove-it.pdf)
+- _Discrete Math and Its Applications, by Rosen (7th edition)_ is the textbook that Math 55 at UC Berkeley uses. It also covers most of the material in the course, including counting (which the above textbook does not cover). [link](http://www2.fiit.stuba.sk/~kvasnicka/Mathematics%20for%20Informatics/Rosen_Discrete_Mathematics_and_Its_Applications_7th_Edition.pdf)
+- _Art of Problem Solving_ is an online community centered around preparing for math competitions, with several wikis on various topics. These wikis are especially relevant towards the latter part of our course, with some excellent articles on combinatorics, the Binomial Theorem and Vieta's Formulas. [link](https://artofproblemsolving.com/wiki/)
+- _Mathematical Reasoning_ is a set of lecture notes by [Hermish Mehta](https://www.ocf.berkeley.edu/~hermish/) on some of the earlier topics in the course. [link](https://www.ocf.berkeley.edu/~hermish/files/teaching/discrete-math-notes.pdf)
 
 <br>
 
