@@ -222,28 +222,28 @@ Access the notes for this class [here](http://notes.imt-decal.org).
 <tr class="odd">
 <td>10</td>
 <td>Tue. 04/02</td>
-<td>Combinatorial Proofs</td>
-<td></td>
+<td>Counting Review</td>
+<td><a href="assets/lecture/lecture17.pdf">Slides<br><a href="https://youtu.be/cPDzU6AlA8k">Video</a></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td>Thu. 04/04</td>
-<td>Binomial Theorem</td>
-<td><a href="http://notes.imt-decal.org/polynomials/binomial-theorem.html">Note: Binomial Theorem</a></td>
+<td>Counting Review</td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>11</td>
 <td>Tue. 04/09</td>
 <td>Binomial Theorem <br> <strong>Quiz 4 in class</strong></td>
-<td></td>
+<td><a href="http://notes.imt-decal.org/polynomials/binomial-theorem.html">Note: Binomial Theorem</a></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td>Thu. 04/11</td>
-<td>Vieta’s Formulas</td>
+<td>Binomial Theorem, Vieta’s Formulas</td>
 <td><a href="http://notes.imt-decal.org/polynomials/vietas-formulas.html">Note: Vieta's Formulas</a></td>
 <td></td>
 </tr>
