@@ -223,14 +223,14 @@ Access the notes for this class [here](http://notes.imt-decal.org).
 <td>10</td>
 <td>Tue. 04/02</td>
 <td>Counting Review</td>
-<td><a href="assets/lecture/lecture17.pdf">Slides<br><a href="https://youtu.be/cPDzU6AlA8k">Video</a></td>
+<td><a href="assets/lecture/lecture17.pdf">Slides<br></a><a href="https://youtu.be/cPDzU6AlA8k">Video</a></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td>Thu. 04/04</td>
-<td>Counting Review</td>
-<td></td>
+<td>Counting Review, Combinatorial Proofs</td>
+<td><a href="assets/lecture/lecture18.pdf">Slides</a><br><a href="https://youtu.be/RlCbQtOhI5s">Video</a></td>
 <td></td>
 </tr>
 <tr class="odd">
