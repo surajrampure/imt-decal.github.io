@@ -60,8 +60,8 @@ Access the notes for this class [here](http://notes.imt-decal.org).
 
 </a>
 
+- <b>Fall 2019: </b> The timing and logistics for this course in Fall 2019 are not yet known. More information will be posted here when available. Feel free to email `imt-decal@berkeley.edu` with any questions.
 - All announcements for current students will be on Piazza.
-- Feel free to email us at `imt-decal@berkeley.edu` with any questions!
 
 <br>
 
@@ -203,7 +203,7 @@ Access the notes for this class [here](http://notes.imt-decal.org).
 <td>Thu. 03/21</td>
 <td>Counting<br>(Ani Nrusimha)</td>
 <td><a href="https://docs.google.com/presentation/d/1Onp2HxS_N1vUxI5sl7DxPdtvqSkR8sCstP-WMPnvEbI/edit?usp=sharing">Slides by Ani</a><br><a href="https://www.youtube.com/watch?v=epY_8lcKxCU&list=PLTankVhPxGKrESpyDmVfQY-UloCCM1YIu">Video (from Fall 2018)</a><br><a href="http://notes.imt-decal.org/counting/stars-and-bars.html">Note: Stars and Bars</a></td>
-<td><a href="assets/hw/hw6.pdf">HW 6</a><br>(due 4/7)</td>
+<td><a href="assets/hw/hw6.pdf">HW 6</a><br><a href="assets/hw/hw6_sol.pdf">Solutions</a></td>
 </tr>
 <tr class="odd">
 <td>9</td>
