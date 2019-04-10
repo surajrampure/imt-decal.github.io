@@ -237,7 +237,7 @@ Access the notes for this class [here](http://notes.imt-decal.org).
 <td>11</td>
 <td>Tue. 04/09</td>
 <td>Binomial Theorem <br> <strong>Quiz 4 in class</strong></td>
-<td><a href="http://notes.imt-decal.org/polynomials/binomial-theorem.html">Note: Binomial Theorem</a></td>
+<td><a href="assets/lecture/lecture19.pdf">Slides</a><br><a href="https://youtu.be/UppJnaBkK-g">Video</a><br><a href="http://notes.imt-decal.org/polynomials/binomial-theorem.html">Note: Binomial Theorem</a></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -303,6 +303,7 @@ _* Ani Nrusimha, `aninrusimha@berkeley.edu`, will be covering these lectures. Fe
 - Quiz 1: [blank](assets/quiz/quiz1.pdf), [solutions](assets/quiz/quiz1_sol.pdf)
 - Quiz 2: [blank](assets/quiz/quiz2.pdf), [solutions](assets/quiz/quiz2_sol.pdf)
 - Quiz 3: [blank](assets/quiz/quiz3.pdf), [solutions](assets/quiz/quiz3_sol.pdf)
+- Quiz 4: [blank](assets/quiz/quiz4.pdf), [solutions](assets/quiz/quiz4_sol.pdf)
 
 **From previous semesters:**
 
