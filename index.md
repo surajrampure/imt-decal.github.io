@@ -245,7 +245,7 @@ Access the notes for this class [here](http://notes.imt-decal.org).
 <td>Thu. 04/11</td>
 <td>Binomial Theorem, Vieta’s Formulas</td>
 <td><a href="assets/lecture/lecture20.pdf">Slides</a><br><a href="https://youtu.be/cpujqCtq1i8">Video</a><br><a href="http://notes.imt-decal.org/polynomials/vietas-formulas.html">Note: Vieta's Formulas</a></td>
-<td><a href="assets/hw/hw7.pdf">HW 7</a><br>(due 4/11)</td>
+<td><a href="assets/hw/hw7.pdf">HW 7</a><br>(due 4/14)</td>
 </tr>
 <tr class="odd">
 <td>12</td>
