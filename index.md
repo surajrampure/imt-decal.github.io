@@ -60,7 +60,9 @@ Access the notes for this class [here](http://notes.imt-decal.org).
 
 </a>
 
-- <b>Fall 2019: </b> The timing and logistics for this course in Fall 2019 are not yet known. More information will be posted here when available. Feel free to email `imt-decal@berkeley.edu` with any questions.
+- <b>Fall 2019: </b> The timing and logistics for this course in Fall 2019 are not yet known. More information will be posted here when available. <b>However, you can express your interest to take the course at <a href='http://interest.imt-decal.org'>interest.imt-decal.org</a></b>.
+
+Feel free to email `imt-decal@berkeley.edu` with any questions.
 - All announcements for current students will be on Piazza.
 
 <br>
@@ -245,7 +247,7 @@ Access the notes for this class [here](http://notes.imt-decal.org).
 <td>Thu. 04/11</td>
 <td>Binomial Theorem, Vieta’s Formulas</td>
 <td><a href="assets/lecture/lecture20.pdf">Slides</a><br><a href="https://youtu.be/cpujqCtq1i8">Video</a><br><a href="http://notes.imt-decal.org/polynomials/vietas-formulas.html">Note: Vieta's Formulas</a></td>
-<td><a href="assets/hw/hw7.pdf">HW 7</a><br>(due 4/14)</td>
+<td><a href="assets/hw/hw7.pdf">HW 7</a><br><a href="assets/hw/hw7_sol.pdf">Solutions</a></td>
 </tr>
 <tr class="odd">
 <td>12</td>
@@ -377,7 +379,7 @@ A passing grade will be given to students with **75 points or more**. We reserve
 - **Can I audit this course?**<br> Sadly, we won't have space for that. However, all materials – lecture notes, the textbook, lecture videos, assignments, exams – will be posted online. 
 
 
-- **How will enrollment work?**<br> Apply to the course at [apply.imt-decal.org](http://apply.imt-decal.org). If you're accepted, and attend the first lecture (mandatory), we will give you a student-specific enrollment code. 
+- **How will enrollment work?**<br> Applications will open later into the summer. However, for now, you can express interest for the fall at [interest.imt-decal.org](http://interest.imt-decal.org). 
 
 <br>
 
