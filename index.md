@@ -357,7 +357,7 @@ The course is graded on a 100 point scale:
   - Quizzes are on **Feb. 14, Feb. 28, Mar. 14, Apr. 9 and Apr. 30**, in class
 - Weekly homeworks, worth a total of 40 points
 
-A passing grade will be given to students with **75 points or more**. We reserve the right to change this threshold, but we would only decrease it (i.e. we will not make it any harder to pass).
+A passing grade will be given to students with **65 points or more** (note the new threshold). We reserve the right to change this threshold, but we would only decrease it (i.e. we will not make it any harder to pass).
 
 <br>
 
