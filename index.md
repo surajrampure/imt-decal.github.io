@@ -253,21 +253,21 @@ Feel free to email `imt-decal@berkeley.edu` with any questions.
 <td>12</td>
 <td>Tue. 04/16</td>
 <td>Vieta’s Formulas</td>
-<td></td>
+<td><a href="assets/lecture/lecture21.pdf">Slides</a><br><a href="https://youtu.be/KodLsgua_04">Video</a></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td>Thu. 04/18</td>
-<td>Polynomial Interpolation</td>
-<td><a href="http://notes.imt-decal.org/polynomials/representation-and-interpolation.html">Note: Representation and Interpolation</a></td>
+<td>TBD</td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>13</td>
 <td>Tue. 04/23</td>
-<td>Factor and Remainder Theorems (Tentative)</td>
-<td><a href="http://notes.imt-decal.org/polynomials/factor-and-remainder-theorem.html">Note: Factor and Remainder Theorems</a></td>
+<td>TBD</td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
