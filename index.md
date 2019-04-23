@@ -60,9 +60,8 @@ Access the notes for this class [here](http://notes.imt-decal.org).
 
 </a>
 
-- <b>Fall 2019: </b> The timing and logistics for this course in Fall 2019 are not yet known. More information will be posted here when available. <b>However, you can express your interest to take the course at <a href='http://interest.imt-decal.org'>interest.imt-decal.org</a></b>.
-
-Feel free to email `imt-decal@berkeley.edu` with any questions.
+- <b>Fall 2019 (last update April 23): </b> The status of this course for next semester is unknown. We will post any updates here. 
+- Feel free to email `imt-decal@berkeley.edu` with any questions.
 - All announcements for current students will be on Piazza.
 
 <br>
@@ -259,16 +258,16 @@ Feel free to email `imt-decal@berkeley.edu` with any questions.
 <tr class="even">
 <td></td>
 <td>Thu. 04/18</td>
-<td>TBD</td>
+<td>No Class</td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>13</td>
 <td>Tue. 04/23</td>
-<td>TBD</td>
+<td>Review</td>
 <td></td>
-<td></td>
+<td><a href="assets/hw/hw8.pdf">HW 8</a><br>(due 4/28)</td>
 </tr>
 <tr class="even">
 <td></td>
