@@ -266,7 +266,7 @@ Access the notes for this class [here](http://notes.imt-decal.org).
 <td>13</td>
 <td>Tue. 04/23</td>
 <td>Review</td>
-<td></td>
+<td><a href="assets/lecture/lecture22.pdf">Slides</a><br><a href="https://youtu.be/f_tcBsca2sU">Video</a></td>
 <td><a href="assets/hw/hw8.pdf">HW 8</a><br>(due 4/28)</td>
 </tr>
 <tr class="even">
