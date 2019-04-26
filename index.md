@@ -273,7 +273,7 @@ Access the notes for this class [here](http://notes.imt-decal.org).
 <td></td>
 <td>Thu. 04/25</td>
 <td>Review</td>
-<td></td>
+<td><a href="assets/lecture/lecture23.pdf">Slides</a><br><a href="https://youtu.be/EXv5CDbEIjw">Video</a></td>
 <td></td>
 </tr>
 <tr class="odd">
