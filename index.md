@@ -267,7 +267,7 @@ Access the notes for this class [here](http://notes.imt-decal.org).
 <td>Tue. 04/23</td>
 <td>Review</td>
 <td><a href="assets/lecture/lecture22.pdf">Slides</a><br><a href="https://youtu.be/f_tcBsca2sU">Video</a></td>
-<td><a href="assets/hw/hw8.pdf">HW 8</a><br>(due 4/28)</td>
+<td><a href="assets/hw/hw8.pdf">HW 8</a><br><a href="assets/hw/hw8_sol.pdf">Solutions</a></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -376,9 +376,6 @@ A passing grade will be given to students with **65 points or more** (note the n
 
 
 - **Can I audit this course?**<br> Sadly, we won't have space for that. However, all materials – lecture notes, the textbook, lecture videos, assignments, exams – will be posted online. 
-
-
-- **How will enrollment work?**<br> Applications will open later into the summer. However, for now, you can express interest for the fall at [interest.imt-decal.org](http://interest.imt-decal.org). 
 
 <br>
 
