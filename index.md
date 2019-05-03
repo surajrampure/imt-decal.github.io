@@ -24,7 +24,7 @@
 
 # Introduction to Mathematical Thinking
 
-### CS 198-087 @ UC Berkeley, Spring 2019
+### CS 198-087 @ UC Berkeley
 
 Jump to
 <a href="#announcements">Announcements</a>,
@@ -38,20 +38,6 @@ Access the notes for this class [here](http://notes.imt-decal.org).
 
 ---
 
-**Class**: Tu/Th, 3:30 - 5:00PM, LeConte 2
-
-**Office Hours**: All office hours are in Soda 341B.
-
-- Monday 3-4PM (Jai, Sagnik)
-- Wednesday 7-8PM (Suraj, Alexia)
-- Thursday 2-3PM (Adel, Divya)
-
-**Piazza**: [here](piazza.com/berkeley/spring2019/cs198087)
-
-**Gradescope**: 92BDXK
-
-**Email**: `imt-decal@berkeley.edu`
-
 <br>
 
 <a name = 'announcements'>
@@ -60,9 +46,8 @@ Access the notes for this class [here](http://notes.imt-decal.org).
 
 </a>
 
-- <b>Fall 2019 (last update April 23): </b> The status of this course for next semester is unknown. We will post any updates here. 
-- Feel free to email `imt-decal@berkeley.edu` with any questions.
-- All announcements for current students will be on Piazza.
+- <b>Fall 2019 (last update May 2): This course will not be offered in Fall 2019. </b> However, all material from Spring 2019 will remain online at this page for self-studying.
+- Please direct all questions to `suraj.rampure@berkeley.edu`.
 
 <br>
 
@@ -286,8 +271,8 @@ Access the notes for this class [here](http://notes.imt-decal.org).
 <tr class="even">
 <td></td>
 <td>Thu. 05/02</td>
-<td>Summary, What’s Next</td>
-<td></td>
+<td>Probability, Closing Thoughtss</td>
+<td><a href="assets/lecture/lecture24.pdf">Slides</a><br><a href="assets/lecture/lecture24_notebook.html">Notebook</a></td>
 <td></td>
 </tr>
 </tbody>
@@ -305,6 +290,7 @@ _* Ani Nrusimha, `aninrusimha@berkeley.edu`, will be covering these lectures. Fe
 - Quiz 2: [blank](assets/quiz/quiz2.pdf), [solutions](assets/quiz/quiz2_sol.pdf)
 - Quiz 3: [blank](assets/quiz/quiz3.pdf), [solutions](assets/quiz/quiz3_sol.pdf)
 - Quiz 4: [blank](assets/quiz/quiz4.pdf), [solutions](assets/quiz/quiz4_sol.pdf)
+- Quiz 5: [blank](assets/quiz/quiz5.pdf), [solutions](assets/quiz/quiz5_sol.pdf)
 
 **From previous semesters:**
 
