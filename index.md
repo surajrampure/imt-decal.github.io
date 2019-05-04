@@ -271,8 +271,8 @@ Access the notes for this class [here](http://notes.imt-decal.org).
 <tr class="even">
 <td></td>
 <td>Thu. 05/02</td>
-<td>Probability, Closing Thoughtss</td>
-<td><a href="assets/lecture/lecture24.pdf">Slides</a><br><a href="assets/lecture/lecture24_notebook.html">Notebook</a></td>
+<td>Probability, Closing Thoughts</td>
+<td><a href="assets/lecture/lecture24.pdf">Slides</a><br><a href="assets/lecture/lecture24_notebook.html">Notebook</a><br><a href="https://youtu.be/T5_5IZnlamk">Video</a></td>
 <td></td>
 </tr>
 </tbody>
