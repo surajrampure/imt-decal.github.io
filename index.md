@@ -46,7 +46,7 @@ Access the notes for this class [here](http://notes.imt-decal.org).
 
 </a>
 
-- <b>Fall 2019 (last update May 2): This course will not be offered in Fall 2019. </b> However, all material from Spring 2019 will remain online at this page for self-studying.
+- <b>This course will not be offered in Fall 2019 or Spring 2020.</b> However, all material from Spring 2019 will remain online at this page for self-studying.
 - Please direct all questions to `suraj.rampure@berkeley.edu`.
 
 <br>
