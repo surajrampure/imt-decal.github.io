@@ -46,8 +46,7 @@ Access the notes for this class [here](http://notes.imt-decal.org).
 
 </a>
 
-- <b>This course will not be offered in Fall 2019 or Spring 2020.</b> However, all material from Spring 2019 will remain online at this page for self-studying.
-- Please direct all questions to `suraj.rampure@berkeley.edu`.
+<b> This course was discontinued after Spring 2019. However, it appears that some students have found the material useful, so we will keep all content public on this site. If you've used the material on this site for any reason, [please fill out this brief survey](https://docs.google.com/forms/d/e/1FAIpQLSc3sF39UIen7qZ8IsWsmmhE1SooKzjYQXcpnc9DFqnLM3ly1A/viewform) to help us understand how this site is being used. Thanks!</b>
 
 <br>
 
@@ -57,8 +56,8 @@ Access the notes for this class [here](http://notes.imt-decal.org).
 
 </a>
 
-- Homework generally follows a Friday-Friday schedule. 
-- Notes written specifically for this course can be found at [notes.imt-decal.org](http://notes.imt-decal.org). Other readings will be linked in the table below. 
+- Homework generally follows a Friday-Friday schedule.
+- Notes written specifically for this course can be found at [notes.imt-decal.org](http://notes.imt-decal.org). Other readings will be linked in the table below.
 - The schedule is tentative.
 
 <table style="width:100%;">
@@ -282,7 +281,7 @@ Access the notes for this class [here](http://notes.imt-decal.org).
 
 </div>
 
-_* Ani Nrusimha, `aninrusimha@berkeley.edu`, will be covering these lectures. Feel free to reach out to him with any questions._ 
+_* Ani Nrusimha, `aninrusimha@berkeley.edu`, will be covering these lectures. Feel free to reach out to him with any questions._
 
 **Spring 2019 quizzes:**
 
@@ -334,7 +333,7 @@ There are **no prerequisites** for this course. We're working really hard to mak
 
 The course will be offered for 2 units, P/NP.
 
-There will be weekly problem sets, which are graded on effort, not correctness. Attendance is mandatory, and **NPs will be given to students who have more than 3 unexcused absenses**. 
+There will be weekly problem sets, which are graded on effort, not correctness. Attendance is mandatory, and **NPs will be given to students who have more than 3 unexcused absenses**.
 
 The course is graded on a 100 point scale:
 
@@ -358,10 +357,10 @@ A passing grade will be given to students with **65 points or more** (note the n
 - **When should I take this course?**<br> We think this course is best taken the semester before taking CS 70. Therefore, if you plan on taking CS 70 in Summer 2019 or Fall 2019, then Spring 2019 would be the time to take it. With that being said, you can take this course even if you don't plan on taking CS 70, but due to constraints, we won't be admitting many students from this category (perhaps in future semesters).  **This DeCal is not designed to be taken alongside or after CS 70 or Math 55.**
 
 
-- **How much work will it be?**<br>We know you have other courses in which your grade matters. However, the only way to actually develop and retain skills from this course is to put in the time into coming to lecture and discussion, reading the book/watching lecture videos, and (most importantly) doing the homework. Not including time spent in class, a rough estimate is 5 hours per week. 
+- **How much work will it be?**<br>We know you have other courses in which your grade matters. However, the only way to actually develop and retain skills from this course is to put in the time into coming to lecture and discussion, reading the book/watching lecture videos, and (most importantly) doing the homework. Not including time spent in class, a rough estimate is 5 hours per week.
 
 
-- **Can I audit this course?**<br> Sadly, we won't have space for that. However, all materials – lecture notes, the textbook, lecture videos, assignments, exams – will be posted online. 
+- **Can I audit this course?**<br> Sadly, we won't have space for that. However, all materials – lecture notes, the textbook, lecture videos, assignments, exams – will be posted online.
 
 <br>
 
@@ -375,7 +374,7 @@ For all course related communications, please email `imt-decal@berkeley.edu`.
 
 ### Instructor
 
-<img src='assets/staff_pics/mecircle.png' width=100> 
+<img src='assets/staff_pics/mecircle.png' width=100>
 
 **[Suraj Rampure](http://surajrampure.com)** (`suraj.rampure@berkeley.edu`) <br>
 
@@ -387,13 +386,13 @@ Hey, I’m a third year EECS major from Windsor, Ontario (right across the borde
 
 ### Teaching Assistants
 
-<img src='assets/staff_pics/jaicircle.png' width=100> 
+<img src='assets/staff_pics/jaicircle.png' width=100>
 
 **[Jai Bansal](https://jaikb.github.io/)** (`jaibansal@berkeley.edu`)
 
 Hey everyone! This is my first year at Cal hoping to major in CS and Applied Mathematics. In my free time, I love playing Ultimate Frisbee and watching basketball, football, soccer (or any sport you can name) and listening to way too much Logic. Feel free to talk to me about anything! Excited to TA for the first time!
 
-<img src='assets/staff_pics/sagnikcircle.png' width=100> 
+<img src='assets/staff_pics/sagnikcircle.png' width=100>
 
 **[Sagnik Bhattacharya](https://sagnibak.github.io/)** (`sagnick@berkeley.edu`)
 
@@ -405,13 +404,13 @@ I'm a CS and stats-intended freshman. You can find me running on the streets of 
 
 I am a sophomore Computer Science major from San Diego. I am a gemini who likes video games, and is excited to work on this course! I use they/them pronouns.
 
-<img src='assets/staff_pics/divyacircle.png' width=100> 
+<img src='assets/staff_pics/divyacircle.png' width=100>
 
 **[Divya Mohan](https://www.linkedin.com/in/divya-m99/)** (`21dmohan@berkeley.edu`)
 
 Heya! I'm a sophomore EECS major, originally from the Bay Area (specifically, Belmont). I am also meme trash; find me on UCBMFET any day, all day. I'm interested in data science, and I love helping my peers :)
 
-<img src='assets/staff_pics/adelcircle.png' width=100> 
+<img src='assets/staff_pics/adelcircle.png' width=100>
 
 **Adel Setoodehnia** (`asetoodehnia@berkeley.edu`)
 
